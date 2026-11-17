@@ -1,0 +1,3802 @@
+[
+ {
+  "id": "N1-001",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Puzzle",
+  "enonce": "Qui a créé Tetris en 1984 ?",
+  "choix": [
+   "Alekseï Pajitnov",
+   "Shigeru Miyamoto",
+   "Hideo Kojima",
+   "Toru Iwatani"
+  ],
+  "bonne": 0,
+  "explication": "Alekseï Pajitnov, chercheur à l'Académie des sciences d'URSS à Moscou, programme Tetris en 1984 sur un ordinateur Electronika 60.",
+  "source": {
+   "titre": "Wikipédia, « Tetris »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Tetris"
+  }
+ },
+ {
+  "id": "N1-002",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Arcade",
+  "enonce": "Quelle entreprise japonaise a créé Pac-Man en 1980 ?",
+  "choix": [
+   "Namco",
+   "Sega",
+   "Taito",
+   "Konami"
+  ],
+  "bonne": 0,
+  "explication": "Pac-Man est développé et édité par Namco en 1980 ; il devient l'un des jeux d'arcade les plus célèbres de l'histoire.",
+  "source": {
+   "titre": "Wikipédia, « Pac-Man »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Pac-Man"
+  }
+ },
+ {
+  "id": "N1-003",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Personnages",
+  "enonce": "Dans quel jeu d'arcade de 1981 Mario apparaît-il pour la première fois ?",
+  "choix": [
+   "Donkey Kong",
+   "Super Mario Bros.",
+   "Mario Bros.",
+   "Popeye"
+  ],
+  "bonne": 0,
+  "explication": "Mario fait ses débuts en 1981 dans Donkey Kong, sous le nom de « Jumpman ». Super Mario Bros. n'arrive qu'en 1985.",
+  "source": {
+   "titre": "Wikipédia, « Donkey Kong (jeu vidéo, 1981) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Donkey%20Kong%20%28jeu%20vid%C3%A9o%2C%201981%29"
+  }
+ },
+ {
+  "id": "N1-004",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Studios",
+  "enonce": "Quelle entreprise a créé Sonic the Hedgehog en 1991 ?",
+  "choix": [
+   "Sega",
+   "Nintendo",
+   "Capcom",
+   "Sony"
+  ],
+  "bonne": 0,
+  "explication": "Sonic est créé par Sega en 1991 pour sa Mega Drive, afin de concurrencer Mario.",
+  "source": {
+   "titre": "Wikipédia, « Sonic the Hedgehog (jeu vidéo, 1991) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Sonic%20the%20Hedgehog%20%28jeu%20vid%C3%A9o%2C%201991%29"
+  }
+ },
+ {
+  "id": "N1-005",
+  "niveau": 1,
+  "epoque": "Années 2010",
+  "theme": "Bac à sable",
+  "enonce": "Qui est le créateur de Minecraft ?",
+  "choix": [
+   "Markus « Notch » Persson",
+   "Will Wright",
+   "John Romero",
+   "Todd Howard"
+  ],
+  "bonne": 0,
+  "explication": "Le Suédois Markus Persson, dit « Notch », lance Minecraft en 2009 ; son studio Mojang est racheté par Microsoft en 2014.",
+  "source": {
+   "titre": "Wikipédia, « Minecraft »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Minecraft"
+  }
+ },
+ {
+  "id": "N1-006",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Personnages",
+  "enonce": "Dans la série The Legend of Zelda, comment s'appelle le héros que l'on dirige ?",
+  "choix": [
+   "Link",
+   "Zelda",
+   "Ganon",
+   "Epona"
+  ],
+  "bonne": 0,
+  "explication": "Le héros s'appelle Link. Zelda est la princesse du royaume, Ganon le grand méchant et Epona le cheval de Link.",
+  "source": {
+   "titre": "Wikipédia, « The Legend of Zelda »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=The%20Legend%20of%20Zelda"
+  }
+ },
+ {
+  "id": "N1-007",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Pokémon",
+  "enonce": "De quel type est Pikachu ?",
+  "choix": [
+   "Électrik",
+   "Feu",
+   "Plante",
+   "Eau"
+  ],
+  "bonne": 0,
+  "explication": "Pikachu, mascotte de la série Pokémon, est un Pokémon de type Électrik.",
+  "source": {
+   "titre": "Wikipédia, « Pikachu »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Pikachu"
+  }
+ },
+ {
+  "id": "N1-008",
+  "niveau": 1,
+  "epoque": "Années 70",
+  "theme": "Arcade",
+  "enonce": "Quelle entreprise a sorti le jeu d'arcade Pong en 1972 ?",
+  "choix": [
+   "Atari",
+   "Magnavox",
+   "Nintendo",
+   "Sega"
+  ],
+  "bonne": 0,
+  "explication": "Pong est le premier grand succès d'Atari, la société fondée par Nolan Bushnell et Ted Dabney en 1972.",
+  "source": {
+   "titre": "Wikipédia, « Pong »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Pong"
+  }
+ },
+ {
+  "id": "N1-009",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Consoles",
+  "enonce": "Quel fabricant a lancé la console PlayStation au Japon en 1994 ?",
+  "choix": [
+   "Sony",
+   "Sega",
+   "Nintendo",
+   "Microsoft"
+  ],
+  "bonne": 0,
+  "explication": "La PlayStation de Sony sort au Japon le 3 décembre 1994, puis en Europe en 1995.",
+  "source": {
+   "titre": "Wikipédia, « PlayStation (console) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=PlayStation%20%28console%29"
+  }
+ },
+ {
+  "id": "N1-010",
+  "niveau": 1,
+  "epoque": "Années 2020",
+  "theme": "Consoles",
+  "enonce": "Quelle console Nintendo est sortie le 5 juin 2025 ?",
+  "choix": [
+   "Nintendo Switch 2",
+   "Wii U",
+   "Nintendo 3DS",
+   "Nintendo Switch Lite"
+  ],
+  "bonne": 0,
+  "explication": "La Nintendo Switch 2, successeure de la Switch de 2017, est sortie dans le monde le 5 juin 2025.",
+  "source": {
+   "titre": "Wikipédia, « Nintendo Switch 2 »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Nintendo%20Switch%202"
+  }
+ },
+ {
+  "id": "N2-001",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Studios",
+  "enonce": "Quel studio a développé The Witcher 3: Wild Hunt (2015) ?",
+  "choix": [
+   "CD Projekt Red",
+   "Bethesda",
+   "BioWare",
+   "Ubisoft"
+  ],
+  "bonne": 0,
+  "explication": "The Witcher 3 est développé par le studio polonais CD Projekt Red, d'après les romans d'Andrzej Sapkowski.",
+  "source": {
+   "titre": "Wikipédia, « The Witcher 3: Wild Hunt »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=The%20Witcher%203%3A%20Wild%20Hunt"
+  }
+ },
+ {
+  "id": "N2-002",
+  "niveau": 2,
+  "epoque": "Années 2000",
+  "theme": "Studios",
+  "enonce": "Quel studio a développé Halo: Combat Evolved, sorti avec la première Xbox en 2001 ?",
+  "choix": [
+   "Bungie",
+   "Epic Games",
+   "343 Industries",
+   "Valve"
+  ],
+  "bonne": 0,
+  "explication": "Halo: Combat Evolved est l'œuvre de Bungie. 343 Industries ne reprend la série qu'à partir de 2011.",
+  "source": {
+   "titre": "Wikipédia, « Halo: Combat Evolved »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Halo%3A%20Combat%20Evolved"
+  }
+ },
+ {
+  "id": "N2-003",
+  "niveau": 2,
+  "epoque": "Années 90",
+  "theme": "Créateurs",
+  "enonce": "Quel créateur français est à l'origine de Rayman (1995) ?",
+  "choix": [
+   "Michel Ancel",
+   "Éric Chahi",
+   "Frédérick Raynal",
+   "David Cage"
+  ],
+  "bonne": 0,
+  "explication": "Michel Ancel imagine Rayman, sorti chez Ubisoft en 1995. Il créera aussi Beyond Good & Evil.",
+  "source": {
+   "titre": "Wikipédia, « Rayman (jeu vidéo) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Rayman%20%28jeu%20vid%C3%A9o%29"
+  }
+ },
+ {
+  "id": "N2-004",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Univers",
+  "enonce": "Quelle ville fictive, inspirée de Los Angeles, sert de cadre à GTA V ?",
+  "choix": [
+   "Los Santos",
+   "Liberty City",
+   "Vice City",
+   "San Fierro"
+  ],
+  "bonne": 0,
+  "explication": "GTA V (2013) se déroule à Los Santos, version fictive de Los Angeles. Liberty City évoque New York et Vice City Miami.",
+  "source": {
+   "titre": "Wikipédia, « Grand Theft Auto V »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Grand%20Theft%20Auto%20V"
+  }
+ },
+ {
+  "id": "N2-005",
+  "niveau": 2,
+  "epoque": "Années 90",
+  "theme": "Personnages",
+  "enonce": "Comment s'appelle le héros de Final Fantasy VII (1997) ?",
+  "choix": [
+   "Cloud Strife",
+   "Squall Leonhart",
+   "Tidus",
+   "Noctis"
+  ],
+  "bonne": 0,
+  "explication": "Cloud Strife est le héros de Final Fantasy VII. Squall est celui de FF VIII, Tidus de FF X et Noctis de FF XV.",
+  "source": {
+   "titre": "Wikipédia, « Final Fantasy VII »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Final%20Fantasy%20VII"
+  }
+ },
+ {
+  "id": "N2-006",
+  "niveau": 2,
+  "epoque": "Années 80",
+  "theme": "Créateurs",
+  "enonce": "Qui est le créateur de la série Metal Gear ?",
+  "choix": [
+   "Hideo Kojima",
+   "Yu Suzuki",
+   "Hironobu Sakaguchi",
+   "Shinji Mikami"
+  ],
+  "bonne": 0,
+  "explication": "Hideo Kojima crée Metal Gear chez Konami en 1987, puis la série culte Metal Gear Solid.",
+  "source": {
+   "titre": "Wikipédia, « Hideo Kojima »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Hideo%20Kojima"
+  }
+ },
+ {
+  "id": "N2-007",
+  "niveau": 2,
+  "epoque": "Années 90",
+  "theme": "Studios",
+  "enonce": "Quel studio a développé Half-Life (1998) ?",
+  "choix": [
+   "Valve",
+   "id Software",
+   "Epic MegaGames",
+   "Looking Glass"
+  ],
+  "bonne": 0,
+  "explication": "Half-Life est le premier jeu de Valve, studio fondé par Gabe Newell et Mike Harrington.",
+  "source": {
+   "titre": "Wikipédia, « Half-Life »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Half-Life"
+  }
+ },
+ {
+  "id": "N2-008",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Studios",
+  "enonce": "Quel studio japonais a développé Dark Souls (2011) ?",
+  "choix": [
+   "FromSoftware",
+   "Team Ninja",
+   "Capcom",
+   "PlatinumGames"
+  ],
+  "bonne": 0,
+  "explication": "Dark Souls est développé par FromSoftware, sous la direction d'Hidetaka Miyazaki.",
+  "source": {
+   "titre": "Wikipédia, « Dark Souls »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Dark%20Souls"
+  }
+ },
+ {
+  "id": "N2-009",
+  "niveau": 2,
+  "epoque": "Années 2020",
+  "theme": "Studios",
+  "enonce": "Quel studio français a développé Clair Obscur: Expedition 33 (2025) ?",
+  "choix": [
+   "Sandfall Interactive",
+   "Don't Nod",
+   "Quantic Dream",
+   "Arkane"
+  ],
+  "bonne": 0,
+  "explication": "Clair Obscur: Expedition 33 est le premier jeu du studio montpelliérain Sandfall Interactive, sacré Jeu de l'année aux Game Awards 2025.",
+  "source": {
+   "titre": "CNC, « Clair Obscur : Expedition 33 aux Game Awards 2025 »",
+   "url": "https://www.cnc.fr/jeu-video/actualites/clair-obscur--expedition-33--aux-game-awards-2025--un-triomphe-pour-le-jeu-francais_2511219"
+  }
+ },
+ {
+  "id": "N2-010",
+  "niveau": 2,
+  "epoque": "Années 80",
+  "theme": "Consoles",
+  "enonce": "En quelle année la Game Boy est-elle sortie au Japon ?",
+  "choix": [
+   "1989",
+   "1985",
+   "1992",
+   "1996"
+  ],
+  "bonne": 0,
+  "explication": "La Game Boy sort au Japon en avril 1989, accompagnée de Tetris qui fera son succès.",
+  "source": {
+   "titre": "Wikipédia, « Game Boy »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Game%20Boy"
+  }
+ },
+ {
+  "id": "N4-001",
+  "niveau": 4,
+  "epoque": "Années 50",
+  "theme": "Origines",
+  "enonce": "Qui a créé Tennis for Two en 1958, l'un des tout premiers jeux vidéo ?",
+  "choix": [
+   "William Higinbotham",
+   "Ralph Baer",
+   "Nolan Bushnell",
+   "Steve Russell"
+  ],
+  "bonne": 0,
+  "explication": "Le physicien William Higinbotham crée Tennis for Two en 1958 au laboratoire de Brookhaven, sur un oscilloscope.",
+  "source": {
+   "titre": "Wikipédia, « Tennis for Two »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Tennis%20for%20Two"
+  }
+ },
+ {
+  "id": "N3-001",
+  "niveau": 3,
+  "epoque": "Années 70",
+  "theme": "Consoles",
+  "enonce": "Quelle est la première console de salon commercialisée, en 1972 ?",
+  "choix": [
+   "Magnavox Odyssey",
+   "Atari 2600",
+   "Fairchild Channel F",
+   "Coleco Telstar"
+  ],
+  "bonne": 0,
+  "explication": "La Magnavox Odyssey, conçue par l'équipe de Ralph Baer, sort aux États-Unis en septembre 1972.",
+  "source": {
+   "titre": "Wikipédia, « Magnavox Odyssey »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Magnavox%20Odyssey"
+  }
+ },
+ {
+  "id": "N4-002",
+  "niveau": 4,
+  "epoque": "Années 60",
+  "theme": "Origines",
+  "enonce": "Sur quel ordinateur Spacewar! a-t-il été programmé au MIT en 1962 ?",
+  "choix": [
+   "PDP-1",
+   "Apple II",
+   "ENIAC",
+   "IBM PC"
+  ],
+  "bonne": 0,
+  "explication": "Spacewar! est développé par Steve Russell et ses collègues du MIT sur un DEC PDP-1.",
+  "source": {
+   "titre": "Wikipédia, « Spacewar! »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Spacewar%21"
+  }
+ },
+ {
+  "id": "N3-002",
+  "niveau": 3,
+  "epoque": "Années 80",
+  "theme": "Anecdotes",
+  "enonce": "Sous quel nom Pac-Man est-il sorti à l'origine au Japon ?",
+  "choix": [
+   "Puck Man",
+   "Paku Paku",
+   "Chomp Man",
+   "Yellow Man"
+  ],
+  "bonne": 0,
+  "explication": "Le jeu s'appelle d'abord Puck Man au Japon ; il est renommé Pac-Man pour l'export afin d'éviter les détournements du nom.",
+  "source": {
+   "titre": "Wikipédia, « Pac-Man »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Pac-Man"
+  }
+ },
+ {
+  "id": "N3-003",
+  "niveau": 3,
+  "epoque": "Années 80",
+  "theme": "Créateurs",
+  "enonce": "Quel concepteur de Namco a imaginé Pac-Man ?",
+  "choix": [
+   "Toru Iwatani",
+   "Shigeru Miyamoto",
+   "Tomohiro Nishikado",
+   "Masaya Nakamura"
+  ],
+  "bonne": 0,
+  "explication": "Toru Iwatani conçoit Pac-Man. Nishikado est le créateur de Space Invaders et Nakamura le fondateur de Namco.",
+  "source": {
+   "titre": "Wikipédia, « Toru Iwatani »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Toru%20Iwatani"
+  }
+ },
+ {
+  "id": "N3-004",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Créateurs",
+  "enonce": "Quel créateur français a conçu presque seul Another World (1991) ?",
+  "choix": [
+   "Éric Chahi",
+   "Paul Cuisset",
+   "Michel Ancel",
+   "Philippe Ulrich"
+  ],
+  "bonne": 0,
+  "explication": "Éric Chahi réalise Another World quasiment seul pendant deux ans. Paul Cuisset est, lui, le créateur de Flashback.",
+  "source": {
+   "titre": "Wikipédia, « Another World (jeu vidéo) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Another%20World%20%28jeu%20vid%C3%A9o%29"
+  }
+ },
+ {
+  "id": "N3-005",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Créateurs",
+  "enonce": "Quel programmeur d'id Software a conçu le moteur de Doom (1993) ?",
+  "choix": [
+   "John Carmack",
+   "John Romero",
+   "Tim Sweeney",
+   "Gabe Newell"
+  ],
+  "bonne": 0,
+  "explication": "John Carmack programme le moteur de Doom ; John Romero en est l'un des principaux concepteurs de niveaux.",
+  "source": {
+   "titre": "Wikipédia, « Doom (jeu vidéo, 1993) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Doom%20%28jeu%20vid%C3%A9o%2C%201993%29"
+  }
+ },
+ {
+  "id": "N3-006",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Consoles",
+  "enonce": "En quelle année la Dreamcast de Sega est-elle sortie au Japon ?",
+  "choix": [
+   "1998",
+   "1996",
+   "2000",
+   "2001"
+  ],
+  "bonne": 0,
+  "explication": "La Dreamcast sort au Japon le 27 novembre 1998. C'est la dernière console de salon de Sega.",
+  "source": {
+   "titre": "Wikipédia, « Dreamcast »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Dreamcast"
+  }
+ },
+ {
+  "id": "N4-003",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "Musique",
+  "enonce": "Qui a composé la musique de Super Mario Bros. (1985) ?",
+  "choix": [
+   "Koji Kondo",
+   "Nobuo Uematsu",
+   "Yuzo Koshiro",
+   "Koichi Sugiyama"
+  ],
+  "bonne": 0,
+  "explication": "Koji Kondo compose la musique de Super Mario Bros. et de The Legend of Zelda. Uematsu est connu pour Final Fantasy.",
+  "source": {
+   "titre": "Wikipédia, « Koji Kondo »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Koji%20Kondo"
+  }
+ },
+ {
+  "id": "N4-004",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "Anecdotes",
+  "enonce": "Près de quelle ville Atari a-t-il enterré des milliers de cartouches, dont celles d'E.T., en 1983 ?",
+  "choix": [
+   "Alamogordo",
+   "Roswell",
+   "Las Vegas",
+   "Phoenix"
+  ],
+  "bonne": 0,
+  "explication": "En septembre 1983, Atari enfouit des cartouches invendues dans une décharge d'Alamogordo (Nouveau-Mexique). Des fouilles l'ont confirmé en 2014.",
+  "source": {
+   "titre": "Slate.fr, « En 1983, un extraterrestre en pixels a failli couler l'industrie du jeu vidéo »",
+   "url": "https://www.slate.fr/culture/1983-extraterrestre-pixels-failli-couler-industrie-jeu-video-pire-histoire-et-the-extra-terrestrial-atari-howard-scott-warshaw-decharge"
+  }
+ },
+ {
+  "id": "N3-007",
+  "niveau": 3,
+  "epoque": "Années 80",
+  "theme": "Industrie",
+  "enonce": "En quelle année a lieu le grand krach du jeu vidéo nord-américain ?",
+  "choix": [
+   "1983",
+   "1979",
+   "1987",
+   "1991"
+  ],
+  "bonne": 0,
+  "explication": "En 1983, le marché nord-américain s'effondre sous l'excès de consoles et de jeux médiocres ; il ne se relèvera qu'avec la NES.",
+  "source": {
+   "titre": "Wikipédia, « Krach du jeu vidéo de 1983 »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Krach%20du%20jeu%20vid%C3%A9o%20de%201983"
+  }
+ },
+ {
+  "id": "N4-005",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Arcade",
+  "enonce": "Quel est le premier jeu d'arcade vidéo commercialisé, en 1971 ?",
+  "choix": [
+   "Computer Space",
+   "Pong",
+   "Space Invaders",
+   "Gun Fight"
+  ],
+  "bonne": 0,
+  "explication": "Computer Space, de Nolan Bushnell et Ted Dabney, sort en 1971 chez Nutting Associates, un an avant Pong.",
+  "source": {
+   "titre": "Wikipédia, « Computer Space »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Computer%20Space"
+  }
+ },
+ {
+  "id": "N3-008",
+  "niveau": 3,
+  "epoque": "XIXe siècle",
+  "theme": "Industrie",
+  "enonce": "Que fabriquait Nintendo à sa fondation en 1889 ?",
+  "choix": [
+   "Des cartes à jouer hanafuda",
+   "Des jouets en bois",
+   "Des appareils photo",
+   "Des machines à coudre"
+  ],
+  "bonne": 0,
+  "explication": "Fusajiro Yamauchi fonde Nintendo à Kyoto en 1889 pour fabriquer des cartes à jouer traditionnelles, les hanafuda.",
+  "source": {
+   "titre": "Wikipédia, « Nintendo »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Nintendo"
+  }
+ },
+ {
+  "id": "N3-009",
+  "niveau": 3,
+  "epoque": "Années 80",
+  "theme": "Industrie",
+  "enonce": "Dans quelle ville l'éditeur Infogrames a-t-il été fondé en 1983 ?",
+  "choix": [
+   "Lyon",
+   "Paris",
+   "Montpellier",
+   "Bordeaux"
+  ],
+  "bonne": 0,
+  "explication": "Infogrames est fondé à Lyon en juin 1983 par Bruno Bonnell et Christophe Sapet ; la société deviendra Atari SA en 2009.",
+  "source": {
+   "titre": "Wikipédia, « Infogrames Entertainment »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Infogrames%20Entertainment"
+  }
+ },
+ {
+  "id": "N4-006",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Origines",
+  "enonce": "Dans quelle université le premier MUD, ancêtre des jeux en ligne, a-t-il été créé en 1978 ?",
+  "choix": [
+   "Université d'Essex",
+   "MIT",
+   "Stanford",
+   "Cambridge"
+  ],
+  "bonne": 0,
+  "explication": "Roy Trubshaw et Richard Bartle créent MUD (Multi-User Dungeon) à l'université d'Essex, au Royaume-Uni, en 1978.",
+  "source": {
+   "titre": "Wikipédia (en anglais), « MUD1 »",
+   "url": "https://en.wikipedia.org/w/index.php?title=Special%3ASearch&go=Go&search=MUD1"
+  }
+ },
+ {
+  "id": "N4-007",
+  "niveau": 4,
+  "epoque": "Années 90",
+  "theme": "Consoles",
+  "enonce": "Sur quelle console sont sortis en 1993 des Zelda développés hors de Nintendo ?",
+  "choix": [
+   "Philips CD-i",
+   "3DO",
+   "Atari Jaguar",
+   "Sega Mega-CD"
+  ],
+  "bonne": 0,
+  "explication": "Link: The Faces of Evil et Zelda: The Wand of Gamelon sortent en 1993 sur le CD-i de Philips, sous licence Nintendo.",
+  "source": {
+   "titre": "Wikipédia, « CD-i »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=CD-i"
+  }
+ },
+ {
+  "id": "N4-008",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "Créateurs",
+  "enonce": "Quel ingénieur de Nintendo a conçu les Game & Watch, puis la Game Boy ?",
+  "choix": [
+   "Gunpei Yokoi",
+   "Satoru Iwata",
+   "Hiroshi Yamauchi",
+   "Masayuki Uemura"
+  ],
+  "bonne": 0,
+  "explication": "Gunpei Yokoi conçoit les Game & Watch (1980) puis la Game Boy (1989). Uemura est, lui, le père de la Famicom.",
+  "source": {
+   "titre": "Wikipédia, « Gunpei Yokoi »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Gunpei%20Yokoi"
+  }
+ },
+ {
+  "id": "N4-009",
+  "niveau": 4,
+  "epoque": "Années 90",
+  "theme": "Créateurs",
+  "enonce": "Quel créateur français est à l'origine d'Alone in the Dark (1992) ?",
+  "choix": [
+   "Frédérick Raynal",
+   "Éric Chahi",
+   "Paul Cuisset",
+   "Michel Ancel"
+  ],
+  "bonne": 0,
+  "explication": "Frédérick Raynal crée Alone in the Dark chez Infogrames en 1992, précurseur du « survival horror ».",
+  "source": {
+   "titre": "Wikipédia, « Frédérick Raynal »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Fr%C3%A9d%C3%A9rick%20Raynal"
+  }
+ },
+ {
+  "id": "N4-010",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Anecdotes",
+  "enonce": "Dans quel jeu Atari 2600 Warren Robinett a-t-il caché une salle secrète affichant son nom ?",
+  "choix": [
+   "Adventure",
+   "Pitfall!",
+   "Yars' Revenge",
+   "Combat"
+  ],
+  "bonne": 0,
+  "explication": "Dans Adventure, Robinett cache une salle affichant « Created by Warren Robinett », l'un des premiers easter eggs connus.",
+  "source": {
+   "titre": "Wikipédia, « Adventure (jeu vidéo) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Adventure%20%28jeu%20vid%C3%A9o%29"
+  }
+ },
+ {
+  "id": "N3-010",
+  "niveau": 3,
+  "epoque": "Années 2020",
+  "theme": "Récompenses",
+  "enonce": "Quel jeu a été sacré Jeu de l'année aux Game Awards 2024 ?",
+  "choix": [
+   "Astro Bot",
+   "Black Myth: Wukong",
+   "Final Fantasy VII Rebirth",
+   "Metaphor: ReFantazio"
+  ],
+  "bonne": 0,
+  "explication": "Astro Bot, du studio Team Asobi (Sony), remporte le titre de Jeu de l'année aux Game Awards de décembre 2024.",
+  "source": {
+   "titre": "Wikipédia, « Astro Bot »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Astro%20Bot"
+  }
+ },
+ {
+  "id": "N1-011",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Personnages",
+  "enonce": "Comment s'appelle le frère de Mario ?",
+  "choix": [
+   "Luigi",
+   "Wario",
+   "Toad",
+   "Yoshi"
+  ],
+  "bonne": 0,
+  "explication": "Luigi, le frère cadet de Mario, apparaît dès Mario Bros. en 1983. Wario est au contraire son rival.",
+  "source": {
+   "titre": "Wikipédia, « Luigi »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Luigi"
+  }
+ },
+ {
+  "id": "N1-012",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Personnages",
+  "enonce": "Comment s'appelle le roi des Koopa, ennemi juré de Mario ?",
+  "choix": [
+   "Bowser",
+   "Ganon",
+   "Wario",
+   "Ridley"
+  ],
+  "bonne": 0,
+  "explication": "Bowser, roi des Koopa, enlève la princesse dès Super Mario Bros. (1985). Ganon est le méchant de Zelda, Ridley celui de Metroid.",
+  "source": {
+   "titre": "Wikipédia, « Bowser »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Bowser"
+  }
+ },
+ {
+  "id": "N1-013",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Personnages",
+  "enonce": "Comment s'appelle le renard à deux queues, fidèle ami de Sonic ?",
+  "choix": [
+   "Tails",
+   "Knuckles",
+   "Shadow",
+   "Amy"
+  ],
+  "bonne": 0,
+  "explication": "Miles « Tails » Prower, renard à deux queues, accompagne Sonic depuis Sonic the Hedgehog 2 (1992). Knuckles est un échidné.",
+  "source": {
+   "titre": "Wikipédia, « Miles « Tails » Prower »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Miles%20%C2%AB%20Tails%20%C2%BB%20Prower"
+  }
+ },
+ {
+  "id": "N1-014",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Séries",
+  "enonce": "Dans quelle série de jeux incarne-t-on l'archéologue Lara Croft ?",
+  "choix": [
+   "Tomb Raider",
+   "Uncharted",
+   "Prince of Persia",
+   "Resident Evil"
+  ],
+  "bonne": 0,
+  "explication": "Lara Croft est l'héroïne de Tomb Raider, série lancée en 1996. Uncharted met en scène Nathan Drake.",
+  "source": {
+   "titre": "Wikipédia, « Tomb Raider »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Tomb%20Raider"
+  }
+ },
+ {
+  "id": "N1-015",
+  "niveau": 1,
+  "epoque": "Années 2010",
+  "theme": "Studios",
+  "enonce": "Quel studio a créé Fortnite ?",
+  "choix": [
+   "Epic Games",
+   "Activision",
+   "Electronic Arts",
+   "Riot Games"
+  ],
+  "bonne": 0,
+  "explication": "Fortnite est développé et édité par Epic Games ; son mode Battle Royale, lancé en 2017, en a fait un phénomène mondial.",
+  "source": {
+   "titre": "Wikipédia, « Fortnite »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Fortnite"
+  }
+ },
+ {
+  "id": "N1-016",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Arcade",
+  "enonce": "Combien de fantômes poursuivent Pac-Man dans le jeu original ?",
+  "choix": [
+   "4",
+   "3",
+   "5",
+   "6"
+  ],
+  "bonne": 0,
+  "explication": "Quatre fantômes poursuivent Pac-Man : Blinky (rouge), Pinky (rose), Inky (bleu) et Clyde (orange).",
+  "source": {
+   "titre": "Wikipédia, « Pac-Man »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Pac-Man"
+  }
+ },
+ {
+  "id": "N1-017",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Puzzle",
+  "enonce": "De combien de carrés est formée chaque pièce de Tetris ?",
+  "choix": [
+   "4",
+   "3",
+   "5",
+   "6"
+  ],
+  "bonne": 0,
+  "explication": "Chaque pièce de Tetris est un « tétromino », formé de quatre carrés : c'est l'origine du nom du jeu.",
+  "source": {
+   "titre": "Wikipédia, « Tetris »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Tetris"
+  }
+ },
+ {
+  "id": "N1-018",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Pokémon",
+  "enonce": "Sur quelle console sont sortis les premiers jeux Pokémon, en 1996 ?",
+  "choix": [
+   "Game Boy",
+   "Super Nintendo",
+   "Nintendo 64",
+   "Game Gear"
+  ],
+  "bonne": 0,
+  "explication": "Pokémon Rouge et Vert sortent au Japon le 27 février 1996 sur Game Boy. L'Europe découvre Rouge et Bleu en 1999.",
+  "source": {
+   "titre": "Poképédia, « Pokémon Versions Rouge et Verte »",
+   "url": "https://www.pokepedia.fr/Pok%C3%A9mon_Versions_Rouge_et_Verte"
+  }
+ },
+ {
+  "id": "N1-019",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Pokémon",
+  "enonce": "Dans Pokémon Rouge et Bleu, quel Pokémon de départ est de type Feu ?",
+  "choix": [
+   "Salamèche",
+   "Bulbizarre",
+   "Carapuce",
+   "Évoli"
+  ],
+  "bonne": 0,
+  "explication": "Le Professeur Chen propose trois Pokémon : Bulbizarre (Plante), Salamèche (Feu) et Carapuce (Eau).",
+  "source": {
+   "titre": "Pokébip, « Pokédex de Kanto »",
+   "url": "https://www.pokebip.com/page/jeux-video/pokemon-rouge-bleu/pokedex-kanto"
+  }
+ },
+ {
+  "id": "N1-020",
+  "niveau": 1,
+  "epoque": "Années 2000",
+  "theme": "Consoles",
+  "enonce": "Quelle entreprise fabrique les consoles Xbox ?",
+  "choix": [
+   "Microsoft",
+   "Sony",
+   "Nintendo",
+   "Sega"
+  ],
+  "bonne": 0,
+  "explication": "La Xbox est la console de Microsoft, lancée en 2001 ; ont suivi la Xbox 360, la Xbox One et les Xbox Series.",
+  "source": {
+   "titre": "Wikipédia, « Xbox (console) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Xbox%20%28console%29"
+  }
+ },
+ {
+  "id": "N1-021",
+  "niveau": 1,
+  "epoque": "Années 2000",
+  "theme": "Consoles",
+  "enonce": "Quelle console Nintendo de 2006 se joue avec une manette qui détecte les mouvements ?",
+  "choix": [
+   "Wii",
+   "GameCube",
+   "Wii U",
+   "Nintendo DS"
+  ],
+  "bonne": 0,
+  "explication": "La Wii (2006) se joue avec la Wiimote, une télécommande qui capte les gestes du joueur.",
+  "source": {
+   "titre": "Wikipédia, « Wii »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Wii"
+  }
+ },
+ {
+  "id": "N1-022",
+  "niveau": 1,
+  "epoque": "Années 2000",
+  "theme": "Simulation",
+  "enonce": "Dans quel jeu de simulation de vie les personnages parlent-ils le « simlish » ?",
+  "choix": [
+   "Les Sims",
+   "SimCity",
+   "Animal Crossing",
+   "Second Life"
+  ],
+  "bonne": 0,
+  "explication": "Les Sims (2000), créé par Will Wright chez Maxis, fait parler ses personnages dans une langue inventée : le simlish.",
+  "source": {
+   "titre": "Wikipédia, « Les Sims »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Les%20Sims"
+  }
+ },
+ {
+  "id": "N1-023",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Course",
+  "enonce": "Sur quelle console est sorti le premier Mario Kart, en 1992 ?",
+  "choix": [
+   "Super Nintendo",
+   "NES",
+   "Nintendo 64",
+   "Game Boy"
+  ],
+  "bonne": 0,
+  "explication": "Super Mario Kart sort en 1992 sur Super Nintendo. Mario Kart 64 suivra en 1996.",
+  "source": {
+   "titre": "Wikipédia, « Super Mario Kart »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Super%20Mario%20Kart"
+  }
+ },
+ {
+  "id": "N1-024",
+  "niveau": 1,
+  "epoque": "Années 2020",
+  "theme": "Sport",
+  "enonce": "Sous quel nom la série de football FIFA d'Electronic Arts est-elle vendue depuis 2023 ?",
+  "choix": [
+   "EA Sports FC",
+   "eFootball",
+   "Football Manager",
+   "FIFA Ultimate"
+  ],
+  "bonne": 0,
+  "explication": "Après la fin de son partenariat avec la FIFA, EA renomme sa série EA Sports FC en 2023. eFootball est la série de Konami.",
+  "source": {
+   "titre": "GameSpot, « EA Renames FIFA Series EA Sports FC » (en anglais)",
+   "url": "https://www.gamespot.com/articles/ea-renames-fifa-series-ea-sports-fc/1100-6503293/"
+  }
+ },
+ {
+  "id": "N1-025",
+  "niveau": 1,
+  "epoque": "Années 2000",
+  "theme": "Studios",
+  "enonce": "Quel éditeur publie la série Assassin's Creed ?",
+  "choix": [
+   "Ubisoft",
+   "Square Enix",
+   "Activision",
+   "Bethesda"
+  ],
+  "bonne": 0,
+  "explication": "Assassin's Creed est une série d'Ubisoft, lancée en 2007 et développée principalement par Ubisoft Montréal.",
+  "source": {
+   "titre": "Wikipédia, « Assassin's Creed »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Assassin%27s%20Creed"
+  }
+ },
+ {
+  "id": "N1-026",
+  "niveau": 1,
+  "epoque": "Années 2000",
+  "theme": "Tir",
+  "enonce": "Quel conflit sert de cadre au premier Call of Duty (2003) ?",
+  "choix": [
+   "La Seconde Guerre mondiale",
+   "La Première Guerre mondiale",
+   "La guerre du Viêt Nam",
+   "La guerre froide"
+  ],
+  "bonne": 0,
+  "explication": "Le premier Call of Duty (2003) plonge le joueur dans la Seconde Guerre mondiale, aux côtés des soldats américains, britanniques et soviétiques.",
+  "source": {
+   "titre": "Wikipédia, « Call of Duty (jeu vidéo) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Call%20of%20Duty%20%28jeu%20vid%C3%A9o%29"
+  }
+ },
+ {
+  "id": "N1-027",
+  "niveau": 1,
+  "epoque": "Années 2000",
+  "theme": "Mobile",
+  "enonce": "Dans Angry Birds, quels animaux les oiseaux attaquent-ils ?",
+  "choix": [
+   "Des cochons",
+   "Des chats",
+   "Des serpents",
+   "Des renards"
+  ],
+  "bonne": 0,
+  "explication": "Dans Angry Birds (Rovio, 2009), les oiseaux sont lancés au lance-pierre sur des cochons qui leur ont volé leurs œufs.",
+  "source": {
+   "titre": "Wikipédia, « Angry Birds »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Angry%20Birds"
+  }
+ },
+ {
+  "id": "N1-028",
+  "niveau": 1,
+  "epoque": "Années 2020",
+  "theme": "Multijoueur",
+  "enonce": "Dans Among Us, comment appelle-t-on le joueur qui sabote le vaisseau ?",
+  "choix": [
+   "L'imposteur",
+   "Le traître",
+   "L'espion",
+   "Le saboteur"
+  ],
+  "bonne": 0,
+  "explication": "Dans Among Us (Innersloth, 2018), un ou plusieurs imposteurs éliminent l'équipage, qui doit les démasquer par vote.",
+  "source": {
+   "titre": "Wikipédia, « Among Us »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Among%20Us"
+  }
+ },
+ {
+  "id": "N1-029",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Séries",
+  "enonce": "Que signifie le sigle GTA ?",
+  "choix": [
+   "Grand Theft Auto",
+   "Great Tactical Action",
+   "Grand Tour Arena",
+   "Gun Theft Attack"
+  ],
+  "bonne": 0,
+  "explication": "GTA signifie Grand Theft Auto, l'expression américaine désignant le vol de voiture. La série naît en 1997.",
+  "source": {
+   "titre": "Wikipédia, « Grand Theft Auto »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Grand%20Theft%20Auto"
+  }
+ },
+ {
+  "id": "N1-030",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Univers",
+  "enonce": "Quel royaume sert de cadre principal à la série The Legend of Zelda ?",
+  "choix": [
+   "Hyrule",
+   "Le Royaume Champignon",
+   "Dream Land",
+   "Azeroth"
+  ],
+  "bonne": 0,
+  "explication": "Hyrule est le royaume de Zelda. Le Royaume Champignon est celui de Mario, Dream Land celui de Kirby, Azeroth celui de Warcraft.",
+  "source": {
+   "titre": "Wikipédia, « Hyrule »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Hyrule"
+  }
+ },
+ {
+  "id": "N1-031",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Personnages",
+  "enonce": "Quel animal est Donkey Kong ?",
+  "choix": [
+   "Un gorille",
+   "Un âne",
+   "Un ours",
+   "Un orang-outan"
+  ],
+  "bonne": 0,
+  "explication": "Donkey Kong est un gorille. Shigeru Miyamoto voulait évoquer un singe têtu : « donkey » signifie pourtant « âne » en anglais.",
+  "source": {
+   "titre": "Wikipédia, « Donkey Kong (personnage) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Donkey%20Kong%20%28personnage%29"
+  }
+ },
+ {
+  "id": "N1-032",
+  "niveau": 1,
+  "epoque": "Années 2000",
+  "theme": "Studios",
+  "enonce": "Quel studio a créé World of Warcraft (2004) ?",
+  "choix": [
+   "Blizzard Entertainment",
+   "Riot Games",
+   "Valve",
+   "Bungie"
+  ],
+  "bonne": 0,
+  "explication": "World of Warcraft est développé par Blizzard Entertainment et sorti en 2004 ; c'est le jeu de rôle en ligne le plus célèbre.",
+  "source": {
+   "titre": "Wikipédia, « World of Warcraft »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=World%20of%20Warcraft"
+  }
+ },
+ {
+  "id": "N1-033",
+  "niveau": 1,
+  "epoque": "Années 2000",
+  "theme": "Studios",
+  "enonce": "Quel studio a créé League of Legends ?",
+  "choix": [
+   "Riot Games",
+   "Blizzard Entertainment",
+   "Valve",
+   "Epic Games"
+  ],
+  "bonne": 0,
+  "explication": "League of Legends est développé par Riot Games et sorti en 2009 ; c'est l'un des jeux les plus joués en e-sport.",
+  "source": {
+   "titre": "Wikipédia, « League of Legends »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=League%20of%20Legends"
+  }
+ },
+ {
+  "id": "N1-034",
+  "niveau": 1,
+  "epoque": "Années 70",
+  "theme": "Arcade",
+  "enonce": "Quelle entreprise japonaise a créé Space Invaders en 1978 ?",
+  "choix": [
+   "Taito",
+   "Namco",
+   "Atari",
+   "Konami"
+  ],
+  "bonne": 0,
+  "explication": "Space Invaders est conçu par Tomohiro Nishikado et sorti par Taito en 1978.",
+  "source": {
+   "titre": "Wikipédia, « Space Invaders »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Space%20Invaders"
+  }
+ },
+ {
+  "id": "N1-035",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Personnages",
+  "enonce": "De quelle couleur est Kirby ?",
+  "choix": [
+   "Rose",
+   "Jaune",
+   "Bleu",
+   "Vert"
+  ],
+  "bonne": 0,
+  "explication": "Kirby, créé par Masahiro Sakurai chez HAL Laboratory en 1992, est une petite boule rose capable d'aspirer ses ennemis.",
+  "source": {
+   "titre": "Wikipédia, « Kirby (personnage) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Kirby%20%28personnage%29"
+  }
+ },
+ {
+  "id": "N1-036",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Combat",
+  "enonce": "Quel éditeur japonais a créé Street Fighter ?",
+  "choix": [
+   "Capcom",
+   "SNK",
+   "Namco",
+   "Sega"
+  ],
+  "bonne": 0,
+  "explication": "Street Fighter est une série de Capcom, lancée en 1987 ; Street Fighter II (1991) a popularisé le jeu de combat.",
+  "source": {
+   "titre": "Wikipédia, « Street Fighter »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Street%20Fighter"
+  }
+ },
+ {
+  "id": "N1-037",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Plateforme",
+  "enonce": "Sur quelle console Crash Bandicoot est-il apparu en 1996 ?",
+  "choix": [
+   "PlayStation",
+   "Nintendo 64",
+   "Saturn",
+   "Dreamcast"
+  ],
+  "bonne": 0,
+  "explication": "Crash Bandicoot, développé par Naughty Dog, sort en 1996 sur PlayStation et devient une mascotte de la console.",
+  "source": {
+   "titre": "Wikipédia, « Crash Bandicoot (jeu vidéo) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Crash%20Bandicoot%20%28jeu%20vid%C3%A9o%29"
+  }
+ },
+ {
+  "id": "N1-038",
+  "niveau": 1,
+  "epoque": "Années 2000",
+  "theme": "Personnages",
+  "enonce": "Quel est le surnom du héros de la série Halo ?",
+  "choix": [
+   "Master Chief",
+   "Commander Shepard",
+   "Marcus Fenix",
+   "Solid Snake"
+  ],
+  "bonne": 0,
+  "explication": "Le héros de Halo est le Master Chief, un super-soldat. Shepard est le héros de Mass Effect, Fenix celui de Gears of War.",
+  "source": {
+   "titre": "Wikipédia, « Master Chief »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Master%20Chief"
+  }
+ },
+ {
+  "id": "N1-039",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Genres",
+  "enonce": "À quel genre appartient Resident Evil (1996) ?",
+  "choix": [
+   "Survival horror",
+   "Jeu de plateforme",
+   "Jeu de course",
+   "Jeu de combat"
+  ],
+  "bonne": 0,
+  "explication": "Resident Evil de Capcom a popularisé le terme « survival horror » : on y survit à des zombies avec peu de munitions.",
+  "source": {
+   "titre": "Wikipédia, « Resident Evil (jeu vidéo, 1996) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Resident%20Evil%20%28jeu%20vid%C3%A9o%2C%201996%29"
+  }
+ },
+ {
+  "id": "N1-040",
+  "niveau": 1,
+  "epoque": "Années 2000",
+  "theme": "Consoles",
+  "enonce": "Quel jeu était fourni avec la Wii dans la plupart des pays ?",
+  "choix": [
+   "Wii Sports",
+   "Mario Kart Wii",
+   "Wii Fit",
+   "Super Mario Galaxy"
+  ],
+  "bonne": 0,
+  "explication": "Wii Sports (tennis, bowling, boxe…) était livré avec la console hors du Japon ; c'est l'un des jeux les plus vendus de l'histoire.",
+  "source": {
+   "titre": "Wikipédia, « Wii Sports »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Wii%20Sports"
+  }
+ },
+ {
+  "id": "N1-041",
+  "niveau": 1,
+  "epoque": "Années 2000",
+  "theme": "PC",
+  "enonce": "Comment s'appelle la boutique de jeux PC lancée par Valve en 2003 ?",
+  "choix": [
+   "Steam",
+   "Origin",
+   "Uplay",
+   "GOG"
+  ],
+  "bonne": 0,
+  "explication": "Steam, lancé par Valve en 2003, est devenu la principale plateforme de vente de jeux sur PC.",
+  "source": {
+   "titre": "Wikipédia, « Steam »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Steam"
+  }
+ },
+ {
+  "id": "N1-042",
+  "niveau": 1,
+  "epoque": "Années 2020",
+  "theme": "Consoles",
+  "enonce": "En quelle année est sortie la PlayStation 5 ?",
+  "choix": [
+   "2020",
+   "2018",
+   "2019",
+   "2021"
+  ],
+  "bonne": 0,
+  "explication": "La PlayStation 5 sort en novembre 2020 (le 19 novembre en France), en pleine pandémie.",
+  "source": {
+   "titre": "Wikipédia, « PlayStation 5 »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=PlayStation%205"
+  }
+ },
+ {
+  "id": "N1-043",
+  "niveau": 1,
+  "epoque": "Années 2020",
+  "theme": "Simulation",
+  "enonce": "Dans Animal Crossing: New Horizons (2020), où le joueur s'installe-t-il ?",
+  "choix": [
+   "Sur une île déserte",
+   "Dans une grande ville",
+   "Dans l'espace",
+   "Sur un bateau"
+  ],
+  "bonne": 0,
+  "explication": "Dans New Horizons, le joueur part vivre sur une île déserte qu'il aménage au fil des saisons.",
+  "source": {
+   "titre": "Wikipédia, « Animal Crossing: New Horizons »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Animal%20Crossing%3A%20New%20Horizons"
+  }
+ },
+ {
+  "id": "N1-044",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Personnages",
+  "enonce": "Quel animal est Yoshi, le compagnon de Mario ?",
+  "choix": [
+   "Un dinosaure",
+   "Une tortue",
+   "Un crapaud",
+   "Un chat"
+  ],
+  "bonne": 0,
+  "explication": "Yoshi est un dinosaure vert apparu dans Super Mario World (1990). Il avale ses ennemis avec sa longue langue.",
+  "source": {
+   "titre": "Wikipédia, « Yoshi »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Yoshi"
+  }
+ },
+ {
+  "id": "N1-045",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Personnages",
+  "enonce": "Quel héros robot bleu Capcom a-t-il lancé en 1987 ?",
+  "choix": [
+   "Mega Man",
+   "Astro Boy",
+   "Bomberman",
+   "RoboCop"
+  ],
+  "bonne": 0,
+  "explication": "Mega Man (Rockman au Japon) sort en 1987 sur NES. Bomberman est un héros de Hudson Soft.",
+  "source": {
+   "titre": "Wikipédia, « Mega Man »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Mega%20Man"
+  }
+ },
+ {
+  "id": "N1-046",
+  "niveau": 1,
+  "epoque": "Années 70",
+  "theme": "Arcade",
+  "enonce": "Quel sport le jeu Pong imite-t-il ?",
+  "choix": [
+   "Le tennis de table",
+   "Le football",
+   "Le hockey sur glace",
+   "Le volley-ball"
+  ],
+  "bonne": 0,
+  "explication": "Pong (Atari, 1972) simule une partie de tennis de table : deux raquettes se renvoient une balle.",
+  "source": {
+   "titre": "Wikipédia, « Pong »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Pong"
+  }
+ },
+ {
+  "id": "N1-047",
+  "niveau": 1,
+  "epoque": "Années 2000",
+  "theme": "Consoles",
+  "enonce": "Quelle console portable Nintendo de 2004 possède deux écrans, dont un tactile ?",
+  "choix": [
+   "Nintendo DS",
+   "Game Boy Advance",
+   "PSP",
+   "Game Boy Color"
+  ],
+  "bonne": 0,
+  "explication": "La Nintendo DS (2004) a deux écrans, dont un tactile qu'on utilise avec un stylet. La PSP est la console portable de Sony.",
+  "source": {
+   "titre": "Wikipédia, « Nintendo DS »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Nintendo%20DS"
+  }
+ },
+ {
+  "id": "N1-048",
+  "niveau": 1,
+  "epoque": "Années 2010",
+  "theme": "Bac à sable",
+  "enonce": "Dans Minecraft, quel monstre vert explose lorsqu'il s'approche du joueur ?",
+  "choix": [
+   "Le Creeper",
+   "L'Enderman",
+   "Le Zombie",
+   "Le Ghast"
+  ],
+  "bonne": 0,
+  "explication": "Le Creeper s'approche sans bruit, siffle puis explose. Il est devenu l'emblème de Minecraft.",
+  "source": {
+   "titre": "Wikipédia, « Creeper (Minecraft) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Creeper%20%28Minecraft%29"
+  }
+ },
+ {
+  "id": "N1-049",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Studios",
+  "enonce": "De quel pays vient l'éditeur Ubisoft ?",
+  "choix": [
+   "France",
+   "Canada",
+   "Japon",
+   "États-Unis"
+  ],
+  "bonne": 0,
+  "explication": "Ubisoft est fondé en 1986 par les cinq frères Guillemot à Carentoir, en Bretagne. Son plus grand studio est à Montréal.",
+  "source": {
+   "titre": "Wikipédia, « Ubisoft »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Ubisoft"
+  }
+ },
+ {
+  "id": "N1-050",
+  "niveau": 1,
+  "epoque": "Années 2000",
+  "theme": "Musique",
+  "enonce": "Dans quelle série d'Ubisoft imite-t-on les mouvements d'un danseur affiché à l'écran ?",
+  "choix": [
+   "Just Dance",
+   "Dance Dance Revolution",
+   "SingStar",
+   "Guitar Hero"
+  ],
+  "bonne": 0,
+  "explication": "Just Dance, lancé par Ubisoft en 2009 sur Wii, fait reproduire des chorégraphies. Dance Dance Revolution (Konami) se joue avec un tapis.",
+  "source": {
+   "titre": "Wikipédia, « Just Dance »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Just%20Dance"
+  }
+ },
+ {
+  "id": "N2-011",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Studios",
+  "enonce": "Quel studio a développé The Last of Us (2013) ?",
+  "choix": [
+   "Naughty Dog",
+   "Insomniac Games",
+   "Santa Monica Studio",
+   "Guerrilla Games"
+  ],
+  "bonne": 0,
+  "explication": "The Last of Us est développé par Naughty Dog, studio de Sony déjà à l'origine de Crash Bandicoot et d'Uncharted.",
+  "source": {
+   "titre": "Wikipédia, « The Last of Us »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=The%20Last%20of%20Us"
+  }
+ },
+ {
+  "id": "N2-012",
+  "niveau": 2,
+  "epoque": "Années 2000",
+  "theme": "Personnages",
+  "enonce": "Comment s'appelle le héros aventurier de la série Uncharted ?",
+  "choix": [
+   "Nathan Drake",
+   "Joel Miller",
+   "Sam Fisher",
+   "Max Payne"
+  ],
+  "bonne": 0,
+  "explication": "Nathan Drake est le chasseur de trésors d'Uncharted (2007). Joel est le héros de The Last of Us, Sam Fisher celui de Splinter Cell.",
+  "source": {
+   "titre": "Wikipédia, « Uncharted »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Uncharted"
+  }
+ },
+ {
+  "id": "N2-013",
+  "niveau": 2,
+  "epoque": "Années 2000",
+  "theme": "Univers",
+  "enonce": "De quelle mythologie s'inspire le premier God of War (2005) ?",
+  "choix": [
+   "Grecque",
+   "Nordique",
+   "Égyptienne",
+   "Japonaise"
+  ],
+  "bonne": 0,
+  "explication": "Kratos affronte les dieux de l'Olympe dans la trilogie d'origine. La mythologie nordique n'arrive qu'avec God of War (2018).",
+  "source": {
+   "titre": "Wikipédia, « God of War (jeu vidéo, 2005) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=God%20of%20War%20%28jeu%20vid%C3%A9o%2C%202005%29"
+  }
+ },
+ {
+  "id": "N2-014",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Studios",
+  "enonce": "Quel éditeur est à l'origine de Red Dead Redemption (2010) ?",
+  "choix": [
+   "Rockstar Games",
+   "Ubisoft",
+   "Bethesda",
+   "Naughty Dog"
+  ],
+  "bonne": 0,
+  "explication": "Red Dead Redemption est un western de Rockstar Games, l'éditeur de la série GTA.",
+  "source": {
+   "titre": "Wikipédia, « Red Dead Redemption »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Red%20Dead%20Redemption"
+  }
+ },
+ {
+  "id": "N2-015",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Séries",
+  "enonce": "À quelle série appartient Skyrim (2011) ?",
+  "choix": [
+   "The Elder Scrolls",
+   "Fallout",
+   "Dragon Age",
+   "Baldur's Gate"
+  ],
+  "bonne": 0,
+  "explication": "Skyrim est le cinquième épisode de The Elder Scrolls, la série de jeux de rôle de Bethesda.",
+  "source": {
+   "titre": "Wikipédia, « The Elder Scrolls V: Skyrim »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=The%20Elder%20Scrolls%20V%3A%20Skyrim"
+  }
+ },
+ {
+  "id": "N2-016",
+  "niveau": 2,
+  "epoque": "Années 2000",
+  "theme": "Studios",
+  "enonce": "Quel studio a créé la trilogie Mass Effect ?",
+  "choix": [
+   "BioWare",
+   "Bethesda",
+   "Obsidian",
+   "CD Projekt Red"
+  ],
+  "bonne": 0,
+  "explication": "Mass Effect (2007) est développé par le studio canadien BioWare, également auteur de Dragon Age.",
+  "source": {
+   "titre": "Wikipédia, « Mass Effect »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Mass%20Effect"
+  }
+ },
+ {
+  "id": "N2-017",
+  "niveau": 2,
+  "epoque": "Années 2000",
+  "theme": "Puzzle",
+  "enonce": "Quel objet le joueur utilise-t-il pour résoudre les énigmes de Portal (2007) ?",
+  "choix": [
+   "Un pistolet à portails",
+   "Un grappin",
+   "Une baguette magique",
+   "Un pistolet à gravité"
+  ],
+  "bonne": 0,
+  "explication": "Dans Portal, on crée deux portails reliés pour se déplacer. Le pistolet à gravité est l'arme de Half-Life 2.",
+  "source": {
+   "titre": "Wikipédia, « Portal (jeu vidéo) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Portal%20%28jeu%20vid%C3%A9o%29"
+  }
+ },
+ {
+  "id": "N2-018",
+  "niveau": 2,
+  "epoque": "Années 80",
+  "theme": "Personnages",
+  "enonce": "Comment s'appelle la chasseuse de primes héroïne de Metroid ?",
+  "choix": [
+   "Samus Aran",
+   "Jill Valentine",
+   "Bayonetta",
+   "Lara Croft"
+  ],
+  "bonne": 0,
+  "explication": "Samus Aran est l'héroïne de Metroid (1986) ; on découvrait à la fin du jeu qu'il s'agissait d'une femme, une surprise à l'époque.",
+  "source": {
+   "titre": "Wikipédia, « Samus Aran »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Samus%20Aran"
+  }
+ },
+ {
+  "id": "N2-019",
+  "niveau": 2,
+  "epoque": "Années 90",
+  "theme": "Combat",
+  "enonce": "Quelle série de Nintendo fait s'affronter Mario, Link, Pikachu et bien d'autres ?",
+  "choix": [
+   "Super Smash Bros.",
+   "Mario Party",
+   "Nintendo Land",
+   "Mario Strikers"
+  ],
+  "bonne": 0,
+  "explication": "Super Smash Bros. réunit depuis 1999 les héros de Nintendo (et d'autres éditeurs) dans des combats en arène.",
+  "source": {
+   "titre": "Wikipédia, « Super Smash Bros. »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Super%20Smash%20Bros."
+  }
+ },
+ {
+  "id": "N2-020",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Studios",
+  "enonce": "Quel studio australien a créé Hollow Knight ?",
+  "choix": [
+   "Team Cherry",
+   "Supergiant Games",
+   "Motion Twin",
+   "Mojang"
+  ],
+  "bonne": 0,
+  "explication": "Hollow Knight (2017) est l'œuvre de Team Cherry, petit studio d'Adélaïde, qui a sorti sa suite Silksong en septembre 2025.",
+  "source": {
+   "titre": "Nintendo Australie, « The Metamorphosis of Hollow Knight, with Team Cherry » (en anglais)",
+   "url": "https://www.nintendo.com.au/the-metamorphosis-of-hollow-knight-with-team-cherry-aussie-developer-interview"
+  }
+ },
+ {
+  "id": "N2-021",
+  "niveau": 2,
+  "epoque": "Années 2020",
+  "theme": "Studios",
+  "enonce": "Quel studio a créé Hades (2020), où l'on tente de s'échapper des Enfers ?",
+  "choix": [
+   "Supergiant Games",
+   "Team Cherry",
+   "Motion Twin",
+   "FromSoftware"
+  ],
+  "bonne": 0,
+  "explication": "Hades est développé par Supergiant Games, studio californien auteur de Bastion et Transistor.",
+  "source": {
+   "titre": "Wikipédia, « Hades (jeu vidéo) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Hades%20%28jeu%20vid%C3%A9o%29"
+  }
+ },
+ {
+  "id": "N2-022",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Studios",
+  "enonce": "Quel studio français a créé Dead Cells (2018) ?",
+  "choix": [
+   "Motion Twin",
+   "Ankama",
+   "Don't Nod",
+   "Amplitude Studios"
+  ],
+  "bonne": 0,
+  "explication": "Dead Cells est développé par Motion Twin, coopérative bordelaise, et a reçu le prix du meilleur jeu d'action aux Game Awards 2018.",
+  "source": {
+   "titre": "CNC, « Le jeu français Dead Cells primé aux Game Awards »",
+   "url": "https://www.cnc.fr/jeu-video/actualites/le-jeu-francais-dead-cells-prime-aux-game-awards_902989"
+  }
+ },
+ {
+  "id": "N2-023",
+  "niveau": 2,
+  "epoque": "Années 2020",
+  "theme": "Créateurs",
+  "enonce": "Quel écrivain a participé à l'univers d'Elden Ring (2022) ?",
+  "choix": [
+   "George R. R. Martin",
+   "Stephen King",
+   "Neil Gaiman",
+   "J. K. Rowling"
+  ],
+  "bonne": 0,
+  "explication": "L'auteur du Trône de fer, George R. R. Martin, a écrit la mythologie de l'univers d'Elden Ring.",
+  "source": {
+   "titre": "Wikipédia, « Elden Ring »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Elden%20Ring"
+  }
+ },
+ {
+  "id": "N2-024",
+  "niveau": 2,
+  "epoque": "Années 2020",
+  "theme": "Récompenses",
+  "enonce": "Quel jeu a été sacré Jeu de l'année aux Game Awards 2023 ?",
+  "choix": [
+   "Baldur's Gate 3",
+   "Alan Wake 2",
+   "Zelda: Tears of the Kingdom",
+   "Marvel's Spider-Man 2"
+  ],
+  "bonne": 0,
+  "explication": "Baldur's Gate 3, du studio belge Larian, remporte six prix aux Game Awards 2023, dont celui du Jeu de l'année.",
+  "source": {
+   "titre": "Tom's Guide, « Game Awards 2023 : Baldur's Gate 3 rafle six trophées »",
+   "url": "https://www.tomsguide.fr/game-awards-2023-baldurs-gate-3-rafle-six-trophees-et-sinvite-sur-xbox/"
+  }
+ },
+ {
+  "id": "N2-025",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Consoles",
+  "enonce": "Quel Zelda est sorti le même jour que la Nintendo Switch, en 2017 ?",
+  "choix": [
+   "Breath of the Wild",
+   "Tears of the Kingdom",
+   "Skyward Sword",
+   "Link's Awakening"
+  ],
+  "bonne": 0,
+  "explication": "The Legend of Zelda: Breath of the Wild sort le 3 mars 2017, en même temps que la Switch. Tears of the Kingdom est sa suite (2023).",
+  "source": {
+   "titre": "Wikipédia, « The Legend of Zelda: Breath of the Wild »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=The%20Legend%20of%20Zelda%3A%20Breath%20of%20the%20Wild"
+  }
+ },
+ {
+  "id": "N2-026",
+  "niveau": 2,
+  "epoque": "Années 90",
+  "theme": "Plateforme",
+  "enonce": "Quel est le premier jeu Mario entièrement en 3D, sorti en 1996 ?",
+  "choix": [
+   "Super Mario 64",
+   "Super Mario Sunshine",
+   "Super Mario Galaxy",
+   "Super Mario 3D Land"
+  ],
+  "bonne": 0,
+  "explication": "Super Mario 64 accompagne le lancement de la Nintendo 64 en 1996 et pose les bases du jeu de plateforme en 3D.",
+  "source": {
+   "titre": "Wikipédia, « Super Mario 64 »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Super%20Mario%2064"
+  }
+ },
+ {
+  "id": "N2-027",
+  "niveau": 2,
+  "epoque": "Années 2000",
+  "theme": "Consoles",
+  "enonce": "Quel support de jeu utilisait la PSP de Sony ?",
+  "choix": [
+   "L'UMD",
+   "Le mini-DVD",
+   "La cartouche",
+   "La carte SD"
+  ],
+  "bonne": 0,
+  "explication": "La PSP (2004) lisait des UMD (Universal Media Disc), de petits disques optiques protégés par une coque.",
+  "source": {
+   "titre": "Wikipédia, « PlayStation Portable »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=PlayStation%20Portable"
+  }
+ },
+ {
+  "id": "N2-028",
+  "niveau": 2,
+  "epoque": "Années 90",
+  "theme": "Consoles",
+  "enonce": "Quelle console de Sega rivalisait avec la Super Nintendo au début des années 90 ?",
+  "choix": [
+   "Mega Drive",
+   "Saturn",
+   "Master System",
+   "Dreamcast"
+  ],
+  "bonne": 0,
+  "explication": "La Mega Drive (Genesis aux États-Unis) affronte la Super Nintendo ; c'est la « guerre des consoles » de Sonic contre Mario.",
+  "source": {
+   "titre": "Wikipédia, « Mega Drive »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Mega%20Drive"
+  }
+ },
+ {
+  "id": "N2-029",
+  "niveau": 2,
+  "epoque": "Années 70",
+  "theme": "Consoles",
+  "enonce": "En quelle année sort l'Atari 2600 (ou VCS) ?",
+  "choix": [
+   "1977",
+   "1972",
+   "1982",
+   "1985"
+  ],
+  "bonne": 0,
+  "explication": "L'Atari VCS, rebaptisée Atari 2600, sort en 1977 et popularise les cartouches de jeux interchangeables.",
+  "source": {
+   "titre": "Wikipédia, « Atari 2600 »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Atari%202600"
+  }
+ },
+ {
+  "id": "N2-030",
+  "niveau": 2,
+  "epoque": "Années 80",
+  "theme": "Consoles",
+  "enonce": "Sous quel nom la NES est-elle sortie au Japon ?",
+  "choix": [
+   "Famicom",
+   "Super Famicom",
+   "PC Engine",
+   "Mark III"
+  ],
+  "bonne": 0,
+  "explication": "La NES est d'abord sortie au Japon en 1983 sous le nom de Famicom (Family Computer). La Super Famicom est la Super Nintendo.",
+  "source": {
+   "titre": "Wikipédia, « Nintendo Entertainment System »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Nintendo%20Entertainment%20System"
+  }
+ },
+ {
+  "id": "N2-031",
+  "niveau": 2,
+  "epoque": "Années 2000",
+  "theme": "Tir",
+  "enonce": "Quel jeu de Valve oppose terroristes et antiterroristes ?",
+  "choix": [
+   "Counter-Strike",
+   "Team Fortress 2",
+   "Rainbow Six",
+   "Left 4 Dead"
+  ],
+  "bonne": 0,
+  "explication": "Counter-Strike, d'abord un mod créé par deux amateurs en 1999, est racheté par Valve. Rainbow Six est une série d'Ubisoft.",
+  "source": {
+   "titre": "Wikipédia, « Counter-Strike »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Counter-Strike"
+  }
+ },
+ {
+  "id": "N2-032",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Sport",
+  "enonce": "Dans Rocket League (2015), avec quoi joue-t-on au football ?",
+  "choix": [
+   "Des voitures",
+   "Des robots",
+   "Des motos",
+   "Des dinosaures"
+  ],
+  "bonne": 0,
+  "explication": "Rocket League, du studio Psyonix, fait jouer au football avec des voitures propulsées par des fusées.",
+  "source": {
+   "titre": "Wikipédia, « Rocket League »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Rocket%20League"
+  }
+ },
+ {
+  "id": "N2-033",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Créateurs",
+  "enonce": "Qui a développé seul la simulation de ferme Stardew Valley (2016) ?",
+  "choix": [
+   "Eric Barone",
+   "Toby Fox",
+   "Lucas Pope",
+   "Markus Persson"
+  ],
+  "bonne": 0,
+  "explication": "Eric Barone, alias ConcernedApe, a passé quatre ans à créer seul Stardew Valley. Toby Fox est l'auteur d'Undertale.",
+  "source": {
+   "titre": "Wikipédia, « Stardew Valley »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Stardew%20Valley"
+  }
+ },
+ {
+  "id": "N2-034",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Tir",
+  "enonce": "Dans Splatoon (2015), avec quoi les équipes recouvrent-elles l'arène ?",
+  "choix": [
+   "De l'encre",
+   "De la neige",
+   "De la boue",
+   "De la lave"
+  ],
+  "bonne": 0,
+  "explication": "Dans Splatoon, les Inklings recouvrent le terrain de leur encre : l'équipe qui en a étalé le plus gagne.",
+  "source": {
+   "titre": "Wikipédia, « Splatoon »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Splatoon"
+  }
+ },
+ {
+  "id": "N2-035",
+  "niveau": 2,
+  "epoque": "Années 90",
+  "theme": "Studios",
+  "enonce": "Quel éditeur japonais a créé la série d'horreur Silent Hill ?",
+  "choix": [
+   "Konami",
+   "Capcom",
+   "Square",
+   "Sega"
+  ],
+  "bonne": 0,
+  "explication": "Silent Hill est une série de Konami lancée en 1999. Capcom, son concurrent, édite Resident Evil.",
+  "source": {
+   "titre": "Wikipédia, « Silent Hill »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Silent%20Hill"
+  }
+ },
+ {
+  "id": "N2-036",
+  "niveau": 2,
+  "epoque": "Années 80",
+  "theme": "Créateurs",
+  "enonce": "Qui est considéré comme le père de la série Final Fantasy ?",
+  "choix": [
+   "Hironobu Sakaguchi",
+   "Hideo Kojima",
+   "Shigeru Miyamoto",
+   "Yu Suzuki"
+  ],
+  "bonne": 0,
+  "explication": "Hironobu Sakaguchi crée Final Fantasy chez Square en 1987, un jeu qu'il pensait être son dernier, d'où le nom.",
+  "source": {
+   "titre": "Wikipédia, « Hironobu Sakaguchi »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Hironobu%20Sakaguchi"
+  }
+ },
+ {
+  "id": "N2-037",
+  "niveau": 2,
+  "epoque": "Années 2000",
+  "theme": "Séries",
+  "enonce": "Avec quel studio Square Enix a-t-il créé la série Kingdom Hearts ?",
+  "choix": [
+   "Disney",
+   "Universal",
+   "DreamWorks",
+   "Warner Bros."
+  ],
+  "bonne": 0,
+  "explication": "Kingdom Hearts (2002) mêle les personnages de Final Fantasy et de Disney, comme Mickey, Donald et Dingo.",
+  "source": {
+   "titre": "Wikipédia, « Kingdom Hearts »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Kingdom%20Hearts"
+  }
+ },
+ {
+  "id": "N2-038",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Mobile",
+  "enonce": "Quel studio a développé Pokémon GO (2016) ?",
+  "choix": [
+   "Niantic",
+   "Game Freak",
+   "Supercell",
+   "Nintendo EPD"
+  ],
+  "bonne": 0,
+  "explication": "Pokémon GO est développé par Niantic, issu de Google. Game Freak développe les jeux Pokémon principaux.",
+  "source": {
+   "titre": "Wikipédia, « Pokémon GO »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Pok%C3%A9mon%20GO"
+  }
+ },
+ {
+  "id": "N2-039",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Mobile",
+  "enonce": "De quel pays vient Supercell, le studio de Clash of Clans ?",
+  "choix": [
+   "Finlande",
+   "Suède",
+   "Corée du Sud",
+   "Canada"
+  ],
+  "bonne": 0,
+  "explication": "Supercell est un studio finlandais installé à Helsinki, comme Rovio, l'éditeur d'Angry Birds.",
+  "source": {
+   "titre": "Wikipédia, « Supercell »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Supercell"
+  }
+ },
+ {
+  "id": "N2-040",
+  "niveau": 2,
+  "epoque": "Années 2020",
+  "theme": "Univers",
+  "enonce": "Dans quelle ville se déroule Cyberpunk 2077 ?",
+  "choix": [
+   "Night City",
+   "Rapture",
+   "Neo-Tokyo",
+   "Midgar"
+  ],
+  "bonne": 0,
+  "explication": "Cyberpunk 2077 (2020) se déroule à Night City, mégapole fictive de Californie. Midgar est la ville de FF VII.",
+  "source": {
+   "titre": "Wikipédia, « Cyberpunk 2077 »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Cyberpunk%202077"
+  }
+ },
+ {
+  "id": "N2-041",
+  "niveau": 2,
+  "epoque": "Années 2000",
+  "theme": "Univers",
+  "enonce": "Où se trouve Rapture, la ville du premier BioShock (2007) ?",
+  "choix": [
+   "Au fond de l'océan",
+   "Dans les nuages",
+   "Sur la Lune",
+   "Dans le désert"
+  ],
+  "bonne": 0,
+  "explication": "Rapture est une cité sous-marine bâtie au fond de l'Atlantique. La ville volante Columbia est celle de BioShock Infinite.",
+  "source": {
+   "titre": "Wikipédia, « BioShock »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=BioShock"
+  }
+ },
+ {
+  "id": "N2-042",
+  "niveau": 2,
+  "epoque": "Années 90",
+  "theme": "Consoles",
+  "enonce": "Comment s'appelle la console portable couleur de Sega sortie en 1990 ?",
+  "choix": [
+   "Game Gear",
+   "Lynx",
+   "WonderSwan",
+   "Nomad"
+  ],
+  "bonne": 0,
+  "explication": "La Game Gear de Sega concurrence la Game Boy dès 1990 avec un écran couleur. La Lynx est d'Atari, la WonderSwan de Bandai.",
+  "source": {
+   "titre": "Wikipédia, « Game Gear »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Game%20Gear"
+  }
+ },
+ {
+  "id": "N2-043",
+  "niveau": 2,
+  "epoque": "Années 2000",
+  "theme": "Personnages",
+  "enonce": "Comment s'appelle le sorceleur héros de The Witcher ?",
+  "choix": [
+   "Geralt de Riv",
+   "Ezio Auditore",
+   "Arthur Morgan",
+   "Aloy"
+  ],
+  "bonne": 0,
+  "explication": "Geralt de Riv, tiré des romans d'Andrzej Sapkowski, est le héros de la trilogie The Witcher.",
+  "source": {
+   "titre": "Wikipédia, « Geralt de Riv »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Geralt%20de%20Riv"
+  }
+ },
+ {
+  "id": "N2-044",
+  "niveau": 2,
+  "epoque": "Années 2000",
+  "theme": "Univers",
+  "enonce": "À quelle époque se déroule Assassin's Creed II (2009) ?",
+  "choix": [
+   "La Renaissance italienne",
+   "Les croisades",
+   "La Révolution française",
+   "L'Égypte antique"
+  ],
+  "bonne": 0,
+  "explication": "Assassin's Creed II suit Ezio Auditore dans l'Italie de la Renaissance. Les croisades sont le cadre du premier épisode.",
+  "source": {
+   "titre": "Wikipédia, « Assassin's Creed II »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Assassin%27s%20Creed%20II"
+  }
+ },
+ {
+  "id": "N2-045",
+  "niveau": 2,
+  "epoque": "Années 2020",
+  "theme": "Univers",
+  "enonce": "Quelle invasion sert de cadre à Ghost of Tsushima (2020) ?",
+  "choix": [
+   "L'invasion mongole",
+   "L'invasion viking",
+   "L'invasion romaine",
+   "L'invasion ottomane"
+  ],
+  "bonne": 0,
+  "explication": "Ghost of Tsushima, de Sucker Punch, se déroule en 1274 lors de la première invasion mongole du Japon.",
+  "source": {
+   "titre": "Wikipédia, « Ghost of Tsushima »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Ghost%20of%20Tsushima"
+  }
+ },
+ {
+  "id": "N2-046",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Personnages",
+  "enonce": "Comment s'appelle la casquette vivante de Mario dans Super Mario Odyssey ?",
+  "choix": [
+   "Cappy",
+   "F.L.U.D.D.",
+   "Luma",
+   "Toadsworth"
+  ],
+  "bonne": 0,
+  "explication": "Dans Super Mario Odyssey (2017), Cappy permet à Mario de prendre le contrôle de ses ennemis. F.L.U.D.D. est la pompe à eau de Mario Sunshine.",
+  "source": {
+   "titre": "Wikipédia, « Super Mario Odyssey »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Super%20Mario%20Odyssey"
+  }
+ },
+ {
+  "id": "N2-047",
+  "niveau": 2,
+  "epoque": "Années 90",
+  "theme": "Studios",
+  "enonce": "Quel studio a créé Doom (1993) ?",
+  "choix": [
+   "id Software",
+   "Valve",
+   "Epic MegaGames",
+   "3D Realms"
+  ],
+  "bonne": 0,
+  "explication": "Doom est l'œuvre d'id Software, déjà auteur de Wolfenstein 3D. 3D Realms est le studio de Duke Nukem 3D.",
+  "source": {
+   "titre": "Wikipédia, « Doom (jeu vidéo, 1993) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Doom%20%28jeu%20vid%C3%A9o%2C%201993%29"
+  }
+ },
+ {
+  "id": "N2-048",
+  "niveau": 2,
+  "epoque": "Années 90",
+  "theme": "Créateurs",
+  "enonce": "Quel concepteur a donné son nom à la série Civilization ?",
+  "choix": [
+   "Sid Meier",
+   "Will Wright",
+   "Peter Molyneux",
+   "Richard Garriott"
+  ],
+  "bonne": 0,
+  "explication": "Le premier Sid Meier's Civilization sort en 1991. Will Wright est le père des Sims, Molyneux celui de Populous.",
+  "source": {
+   "titre": "Wikipédia, « Sid Meier »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Sid%20Meier"
+  }
+ },
+ {
+  "id": "N2-049",
+  "niveau": 2,
+  "epoque": "Années 2000",
+  "theme": "Stratégie",
+  "enonce": "Dans Pikmin (2001), comment s'appelle le capitaine qui dirige les petites créatures ?",
+  "choix": [
+   "Olimar",
+   "Falcon",
+   "Toad",
+   "Kamek"
+  ],
+  "bonne": 0,
+  "explication": "Le capitaine Olimar, échoué sur une planète inconnue, s'aide des Pikmin pour réparer sa fusée.",
+  "source": {
+   "titre": "Wikipédia, « Pikmin »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Pikmin"
+  }
+ },
+ {
+  "id": "N2-050",
+  "niveau": 2,
+  "epoque": "Années 2010",
+  "theme": "Consoles",
+  "enonce": "Quelle console Nintendo de 2012 se jouait avec une manette-tablette ?",
+  "choix": [
+   "Wii U",
+   "Nintendo Switch",
+   "Nintendo 3DS",
+   "Wii"
+  ],
+  "bonne": 0,
+  "explication": "La Wii U (2012) était accompagnée du GamePad, une manette dotée d'un écran tactile. C'est l'ancêtre de la Switch.",
+  "source": {
+   "titre": "Wikipédia, « Wii U »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Wii%20U"
+  }
+ },
+ {
+  "id": "N3-011",
+  "niveau": 3,
+  "epoque": "Années 2010",
+  "theme": "Créateurs",
+  "enonce": "Quel créateur a développé presque seul Undertale (2015) ?",
+  "choix": [
+   "Toby Fox",
+   "Eric Barone",
+   "Lucas Pope",
+   "Jonathan Blow"
+  ],
+  "bonne": 0,
+  "explication": "Toby Fox a écrit, programmé et composé Undertale quasiment seul. Lucas Pope est l'auteur de Papers, Please, Jonathan Blow celui de Braid.",
+  "source": {
+   "titre": "Wikipédia, « Undertale »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Undertale"
+  }
+ },
+ {
+  "id": "N3-012",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Créateurs",
+  "enonce": "Quel créateur a imaginé à la fois Kirby et Super Smash Bros. ?",
+  "choix": [
+   "Masahiro Sakurai",
+   "Satoru Iwata",
+   "Eiji Aonuma",
+   "Yoshiaki Koizumi"
+  ],
+  "bonne": 0,
+  "explication": "Masahiro Sakurai crée Kirby à 19 ans chez HAL Laboratory (1992), puis Super Smash Bros. (1999). Aonuma dirige la série Zelda.",
+  "source": {
+   "titre": "Wikipédia, « Masahiro Sakurai »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Masahiro%20Sakurai"
+  }
+ },
+ {
+  "id": "N3-013",
+  "niveau": 3,
+  "epoque": "Années 2000",
+  "theme": "Industrie",
+  "enonce": "Quel président de Nintendo, disparu en 2015, était aussi un ancien programmeur ?",
+  "choix": [
+   "Satoru Iwata",
+   "Hiroshi Yamauchi",
+   "Shuntaro Furukawa",
+   "Reggie Fils-Aimé"
+  ],
+  "bonne": 0,
+  "explication": "Satoru Iwata, programmeur chez HAL Laboratory, dirige Nintendo de 2002 à sa mort en 2015 ; il a lancé la DS et la Wii.",
+  "source": {
+   "titre": "Wikipédia, « Satoru Iwata »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Satoru%20Iwata"
+  }
+ },
+ {
+  "id": "N3-014",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Créateurs",
+  "enonce": "Quel créateur de Sega est à l'origine de Shenmue (1999) ?",
+  "choix": [
+   "Yu Suzuki",
+   "Yuji Naka",
+   "Toshihiro Nagoshi",
+   "Hideki Kamiya"
+  ],
+  "bonne": 0,
+  "explication": "Yu Suzuki, déjà auteur d'Out Run et de Virtua Fighter, conçoit Shenmue sur Dreamcast, l'un des jeux les plus coûteux de son époque.",
+  "source": {
+   "titre": "Wikipédia, « Yu Suzuki »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Yu%20Suzuki"
+  }
+ },
+ {
+  "id": "N3-015",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Créateurs",
+  "enonce": "Quel programmeur a co-créé Sonic the Hedgehog (1991) ?",
+  "choix": [
+   "Yuji Naka",
+   "Yu Suzuki",
+   "Koji Igarashi",
+   "Tetsuya Mizuguchi"
+  ],
+  "bonne": 0,
+  "explication": "Yuji Naka programme Sonic the Hedgehog, dont le personnage est dessiné par Naoto Ohshima.",
+  "source": {
+   "titre": "Wikipédia, « Yuji Naka »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Yuji%20Naka"
+  }
+ },
+ {
+  "id": "N3-016",
+  "niveau": 3,
+  "epoque": "Années 2000",
+  "theme": "Créateurs",
+  "enonce": "Quel réalisateur a créé Devil May Cry puis Bayonetta ?",
+  "choix": [
+   "Hideki Kamiya",
+   "Shinji Mikami",
+   "Tomonobu Itagaki",
+   "Goichi Suda"
+  ],
+  "bonne": 0,
+  "explication": "Hideki Kamiya réalise Devil May Cry chez Capcom (2001), puis Bayonetta chez PlatinumGames (2009).",
+  "source": {
+   "titre": "Wikipédia, « Hideki Kamiya »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Hideki%20Kamiya"
+  }
+ },
+ {
+  "id": "N3-017",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Créateurs",
+  "enonce": "Qui a réalisé le premier Resident Evil (1996) ?",
+  "choix": [
+   "Shinji Mikami",
+   "Hideki Kamiya",
+   "Hideo Kojima",
+   "Keiji Inafune"
+  ],
+  "bonne": 0,
+  "explication": "Shinji Mikami réalise Resident Evil chez Capcom ; il signera plus tard Resident Evil 4 et The Evil Within.",
+  "source": {
+   "titre": "Wikipédia, « Shinji Mikami »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Shinji%20Mikami"
+  }
+ },
+ {
+  "id": "N3-018",
+  "niveau": 3,
+  "epoque": "Années 2010",
+  "theme": "Studios",
+  "enonce": "Quel studio parisien a créé Heavy Rain et Detroit: Become Human ?",
+  "choix": [
+   "Quantic Dream",
+   "Don't Nod",
+   "Arkane Studios",
+   "Cyanide"
+  ],
+  "bonne": 0,
+  "explication": "Quantic Dream, fondé par David Cage, est spécialisé dans les jeux narratifs : Heavy Rain (2010), Detroit: Become Human (2018).",
+  "source": {
+   "titre": "Wikipédia, « Quantic Dream »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Quantic%20Dream"
+  }
+ },
+ {
+  "id": "N3-019",
+  "niveau": 3,
+  "epoque": "Années 2010",
+  "theme": "Studios",
+  "enonce": "Quel studio français a créé Life is Strange (2015) ?",
+  "choix": [
+   "Don't Nod",
+   "Quantic Dream",
+   "Spiders",
+   "Amplitude Studios"
+  ],
+  "bonne": 0,
+  "explication": "Life is Strange est développé par le studio parisien Don't Nod et édité par Square Enix.",
+  "source": {
+   "titre": "Wikipédia, « Life Is Strange »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Life%20Is%20Strange"
+  }
+ },
+ {
+  "id": "N3-020",
+  "niveau": 3,
+  "epoque": "Années 2000",
+  "theme": "Séries",
+  "enonce": "En quelle année est sorti le premier Assassin's Creed ?",
+  "choix": [
+   "2007",
+   "2005",
+   "2009",
+   "2011"
+  ],
+  "bonne": 0,
+  "explication": "Le premier Assassin's Creed, développé par Ubisoft Montréal, sort en novembre 2007 et se déroule pendant les croisades.",
+  "source": {
+   "titre": "Wikipédia, « Assassin's Creed (jeu vidéo) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Assassin%27s%20Creed%20%28jeu%20vid%C3%A9o%29"
+  }
+ },
+ {
+  "id": "N3-021",
+  "niveau": 3,
+  "epoque": "Années 2000",
+  "theme": "Technique",
+  "enonce": "Comment s'appelle le moteur de jeu créé par Valve pour Half-Life 2 (2004) ?",
+  "choix": [
+   "Source",
+   "Unreal Engine",
+   "id Tech",
+   "Frostbite"
+  ],
+  "bonne": 0,
+  "explication": "Valve développe le moteur Source pour Half-Life 2, célèbre pour sa physique. Frostbite est le moteur d'EA (Battlefield).",
+  "source": {
+   "titre": "Wikipédia, « Source (moteur de jeu) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Source%20%28moteur%20de%20jeu%29"
+  }
+ },
+ {
+  "id": "N3-022",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Technique",
+  "enonce": "Quelle entreprise développe l'Unreal Engine ?",
+  "choix": [
+   "Epic Games",
+   "Unity Technologies",
+   "Valve",
+   "Crytek"
+  ],
+  "bonne": 0,
+  "explication": "L'Unreal Engine est créé par Epic Games pour le jeu Unreal (1998) ; il équipe aujourd'hui des milliers de jeux, dont Fortnite.",
+  "source": {
+   "titre": "Wikipédia, « Unreal Engine »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Unreal%20Engine"
+  }
+ },
+ {
+  "id": "N3-023",
+  "niveau": 3,
+  "epoque": "Années 2010",
+  "theme": "Industrie",
+  "enonce": "Combien Microsoft a-t-il payé pour racheter Mojang, le studio de Minecraft, en 2014 ?",
+  "choix": [
+   "2,5 milliards de dollars",
+   "500 millions de dollars",
+   "1 milliard de dollars",
+   "7,5 milliards de dollars"
+  ],
+  "bonne": 0,
+  "explication": "Microsoft rachète Mojang pour 2,5 milliards de dollars en 2014. 7,5 milliards, c'est le prix de Bethesda (ZeniMax) en 2021.",
+  "source": {
+   "titre": "Wikipédia, « Mojang Studios »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Mojang%20Studios"
+  }
+ },
+ {
+  "id": "N3-024",
+  "niveau": 3,
+  "epoque": "Années 2020",
+  "theme": "Industrie",
+  "enonce": "Quel éditeur Microsoft a-t-il racheté pour 69 milliards de dollars en 2023 ?",
+  "choix": [
+   "Activision Blizzard",
+   "Electronic Arts",
+   "Ubisoft",
+   "Take-Two"
+  ],
+  "bonne": 0,
+  "explication": "Microsoft finalise le rachat d'Activision Blizzard (Call of Duty, Diablo, Overwatch) le 13 octobre 2023, pour 69 milliards de dollars.",
+  "source": {
+   "titre": "AP News via KOMO, « Microsoft closes deal to buy Call of Duty maker Activision Blizzard » (en anglais)",
+   "url": "https://komonews.com/news/nation-world/microsoft-activision-blizzard-69-billion-purchase-approved-antitrust-fights-britain-competition-watchdog-tech-acquisitions-video-game-industry-call-of-duty-diablo-overwatch-xbox-playstation-nintendo"
+  }
+ },
+ {
+  "id": "N3-025",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Consoles",
+  "enonce": "Quelle console Nintendo de 1995 affichait ses jeux en rouge et noir ?",
+  "choix": [
+   "Virtual Boy",
+   "Game Boy Pocket",
+   "Pokémon Mini",
+   "Game & Watch"
+  ],
+  "bonne": 0,
+  "explication": "Le Virtual Boy (1995), casque posé sur un pied, affichait une 3D en rouge et noir. Ce fut l'un des plus gros échecs de Nintendo.",
+  "source": {
+   "titre": "Wikipédia, « Virtual Boy »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Virtual%20Boy"
+  }
+ },
+ {
+  "id": "N3-026",
+  "niveau": 3,
+  "epoque": "Années 2000",
+  "theme": "Industrie",
+  "enonce": "En quelle année Sega a-t-il annoncé l'arrêt de la fabrication de ses consoles ?",
+  "choix": [
+   "2001",
+   "1998",
+   "2005",
+   "1995"
+  ],
+  "bonne": 0,
+  "explication": "En janvier 2001, Sega annonce l'arrêt de la Dreamcast et devient éditeur de jeux pour les consoles de ses anciens rivaux.",
+  "source": {
+   "titre": "Wikipédia, « Dreamcast »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Dreamcast"
+  }
+ },
+ {
+  "id": "N3-027",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Anecdotes",
+  "enonce": "Avec quel constructeur Sony a-t-il d'abord travaillé avant de créer la PlayStation ?",
+  "choix": [
+   "Nintendo",
+   "Sega",
+   "Atari",
+   "NEC"
+  ],
+  "bonne": 0,
+  "explication": "Sony devait fabriquer un lecteur CD pour la Super Nintendo. Après la rupture avec Nintendo, Sony a lancé sa propre console.",
+  "source": {
+   "titre": "Wikipédia, « PlayStation (console) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=PlayStation%20%28console%29"
+  }
+ },
+ {
+  "id": "N3-028",
+  "niveau": 3,
+  "epoque": "Années 80",
+  "theme": "Anecdotes",
+  "enonce": "Quel était le métier de Mario dans Donkey Kong (1981) ?",
+  "choix": [
+   "Charpentier",
+   "Plombier",
+   "Maçon",
+   "Électricien"
+  ],
+  "bonne": 0,
+  "explication": "Dans Donkey Kong, Mario (alors « Jumpman ») est charpentier. Il ne devient plombier qu'avec Mario Bros. en 1983.",
+  "source": {
+   "titre": "Wikipédia, « Mario (personnage) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Mario%20%28personnage%29"
+  }
+ },
+ {
+  "id": "N3-029",
+  "niveau": 3,
+  "epoque": "Années 80",
+  "theme": "Anecdotes",
+  "enonce": "Comment appelle-t-on la séquence « haut, haut, bas, bas, gauche, droite, gauche, droite, B, A » ?",
+  "choix": [
+   "Le code Konami",
+   "Le code Capcom",
+   "Le code Sega",
+   "Le code Namco"
+  ],
+  "bonne": 0,
+  "explication": "Ce code de triche a été créé par Kazuhisa Hashimoto pour Gradius (Konami) et réutilisé dans de nombreux jeux.",
+  "source": {
+   "titre": "Wikipédia, « Code Konami »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Code%20Konami"
+  }
+ },
+ {
+  "id": "N3-030",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Pokémon",
+  "enonce": "Combien de Pokémon compte la première génération ?",
+  "choix": [
+   "151",
+   "120",
+   "200",
+   "251"
+  ],
+  "bonne": 0,
+  "explication": "La première génération compte 151 Pokémon, de Bulbizarre à Mew. La deuxième génération porte le total à 251.",
+  "source": {
+   "titre": "Pokébip, « Pokédex de Kanto »",
+   "url": "https://www.pokebip.com/page/jeux-video/pokemon-rouge-bleu/pokedex-kanto"
+  }
+ },
+ {
+  "id": "N3-031",
+  "niveau": 3,
+  "epoque": "Années 80",
+  "theme": "Séries",
+  "enonce": "En quelle année sort le premier The Legend of Zelda au Japon ?",
+  "choix": [
+   "1986",
+   "1983",
+   "1989",
+   "1991"
+  ],
+  "bonne": 0,
+  "explication": "The Legend of Zelda sort au Japon en février 1986 sur le Famicom Disk System, puis en 1987 en Occident.",
+  "source": {
+   "titre": "Wikipédia, « The Legend of Zelda (jeu vidéo) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=The%20Legend%20of%20Zelda%20%28jeu%20vid%C3%A9o%29"
+  }
+ },
+ {
+  "id": "N3-032",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Studios",
+  "enonce": "Quel studio écossais a créé Lemmings (1991) puis le premier GTA (1997) ?",
+  "choix": [
+   "DMA Design",
+   "Rare",
+   "Codemasters",
+   "Bullfrog"
+  ],
+  "bonne": 0,
+  "explication": "DMA Design, studio de Dundee, crée Lemmings puis Grand Theft Auto ; il deviendra Rockstar North.",
+  "source": {
+   "titre": "Wikipédia, « Rockstar North »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Rockstar%20North"
+  }
+ },
+ {
+  "id": "N3-033",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Studios",
+  "enonce": "Quel studio britannique a développé GoldenEye 007 (1997) sur Nintendo 64 ?",
+  "choix": [
+   "Rare",
+   "Bullfrog",
+   "Core Design",
+   "Traveller's Tales"
+  ],
+  "bonne": 0,
+  "explication": "GoldenEye 007 est développé par Rare, studio également auteur de Donkey Kong Country et Banjo-Kazooie.",
+  "source": {
+   "titre": "Wikipédia, « GoldenEye 007 (jeu vidéo, 1997) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=GoldenEye%20007%20%28jeu%20vid%C3%A9o%2C%201997%29"
+  }
+ },
+ {
+  "id": "N3-034",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Studios",
+  "enonce": "Quel studio a créé le premier Tomb Raider (1996) ?",
+  "choix": [
+   "Core Design",
+   "Crystal Dynamics",
+   "Naughty Dog",
+   "Rare"
+  ],
+  "bonne": 0,
+  "explication": "Tomb Raider est développé par Core Design, à Derby en Angleterre. Crystal Dynamics reprend la série en 2006.",
+  "source": {
+   "titre": "Wikipédia, « Tomb Raider (jeu vidéo, 1996) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Tomb%20Raider%20%28jeu%20vid%C3%A9o%2C%201996%29"
+  }
+ },
+ {
+  "id": "N3-035",
+  "niveau": 3,
+  "epoque": "Années 80",
+  "theme": "Créateurs",
+  "enonce": "Quel jeu de Peter Molyneux (1989) a popularisé le « god game », où l'on joue une divinité ?",
+  "choix": [
+   "Populous",
+   "Black & White",
+   "Theme Park",
+   "Fable"
+  ],
+  "bonne": 0,
+  "explication": "Populous, du studio Bullfrog, fait du joueur un dieu qui façonne le terrain. Black & White, du même créateur, date de 2001.",
+  "source": {
+   "titre": "Wikipédia, « Populous »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Populous"
+  }
+ },
+ {
+  "id": "N3-036",
+  "niveau": 3,
+  "epoque": "Années 80",
+  "theme": "Créateurs",
+  "enonce": "Quel créateur, surnommé « Lord British », est le père de la série Ultima ?",
+  "choix": [
+   "Richard Garriott",
+   "Sid Meier",
+   "John Romero",
+   "Warren Spector"
+  ],
+  "bonne": 0,
+  "explication": "Richard Garriott crée Ultima en 1981 et apparaît dans ses jeux sous les traits de Lord British. Il est aussi allé dans l'espace en 2008.",
+  "source": {
+   "titre": "Wikipédia, « Richard Garriott »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Richard%20Garriott"
+  }
+ },
+ {
+  "id": "N3-037",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "E-sport",
+  "enonce": "Dans quel pays StarCraft est-il devenu un sport télévisé dès la fin des années 90 ?",
+  "choix": [
+   "Corée du Sud",
+   "Japon",
+   "Chine",
+   "États-Unis"
+  ],
+  "bonne": 0,
+  "explication": "En Corée du Sud, StarCraft (Blizzard, 1998) devient un phénomène : chaînes de télévision dédiées et joueurs professionnels vedettes.",
+  "source": {
+   "titre": "Wikipédia, « StarCraft »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=StarCraft"
+  }
+ },
+ {
+  "id": "N3-038",
+  "niveau": 3,
+  "epoque": "Années 80",
+  "theme": "Consoles",
+  "enonce": "Quel jeu était vendu avec la Game Boy en Europe et en Amérique du Nord ?",
+  "choix": [
+   "Tetris",
+   "Super Mario Land",
+   "Pokémon Rouge",
+   "Kirby's Dream Land"
+  ],
+  "bonne": 0,
+  "explication": "Nintendo a choisi de vendre la Game Boy avec Tetris en Occident, un choix qui a fait le succès des deux.",
+  "source": {
+   "titre": "Wikipédia, « Game Boy »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Game%20Boy"
+  }
+ },
+ {
+  "id": "N3-039",
+  "niveau": 3,
+  "epoque": "Années 2020",
+  "theme": "Industrie",
+  "enonce": "Quel grand salon du jeu vidéo de Los Angeles a été définitivement arrêté en 2023 ?",
+  "choix": [
+   "L'E3",
+   "La Gamescom",
+   "La PAX",
+   "Le Tokyo Game Show"
+  ],
+  "bonne": 0,
+  "explication": "L'ESA annonce le 12 décembre 2023 la fin de l'E3, créé en 1995. Sa dernière édition physique remontait à 2019.",
+  "source": {
+   "titre": "Siècle Digital, « L'arrêt de l'E3 conclut la fin d'une ère »",
+   "url": "https://siecledigital.fr/2023/12/13/larret-de-le3-conclut-la-fin-dune-ere-pour-lindustrie-du-jeu-video/"
+  }
+ },
+ {
+  "id": "N3-040",
+  "niveau": 3,
+  "epoque": "Années 2000",
+  "theme": "Industrie",
+  "enonce": "Dans quelle ville se tient chaque année la Gamescom ?",
+  "choix": [
+   "Cologne",
+   "Berlin",
+   "Paris",
+   "Londres"
+  ],
+  "bonne": 0,
+  "explication": "La Gamescom se tient chaque été à Cologne, en Allemagne, depuis 2009 ; c'est le plus grand salon du jeu vidéo en Europe.",
+  "source": {
+   "titre": "Wikipédia, « Gamescom »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Gamescom"
+  }
+ },
+ {
+  "id": "N3-041",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Anecdotes",
+  "enonce": "Quel acteur a été la voix officielle de Mario pendant plus de 25 ans, jusqu'en 2023 ?",
+  "choix": [
+   "Charles Martinet",
+   "Kevin Afghani",
+   "Chris Pratt",
+   "Danny DeVito"
+  ],
+  "bonne": 0,
+  "explication": "Charles Martinet prête sa voix à Mario dès les années 90 ; Nintendo annonce en août 2023 qu'il devient « ambassadeur de Mario ». Chris Pratt est la voix du film.",
+  "source": {
+   "titre": "TechRadar, « Charles Martinet is retiring as the voice of Mario » (en anglais)",
+   "url": "https://www.techradar.com/gaming/charles-martinet-is-retiring-as-the-voice-of-mario"
+  }
+ },
+ {
+  "id": "N3-042",
+  "niveau": 3,
+  "epoque": "Années 80",
+  "theme": "Anecdotes",
+  "enonce": "Selon son créateur, quel aliment a inspiré la forme de Pac-Man ?",
+  "choix": [
+   "Une pizza",
+   "Un gâteau",
+   "Un fromage",
+   "Une crêpe"
+  ],
+  "bonne": 0,
+  "explication": "Son créateur raconte avoir eu l'idée de Pac-Man en regardant une pizza à laquelle il manquait une part.",
+  "source": {
+   "titre": "Wikipédia, « Pac-Man »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Pac-Man"
+  }
+ },
+ {
+  "id": "N3-043",
+  "niveau": 3,
+  "epoque": "Années 90",
+  "theme": "Consoles",
+  "enonce": "Quel support la Nintendo 64 utilisait-elle, alors que ses rivales passaient au CD ?",
+  "choix": [
+   "La cartouche",
+   "Le CD",
+   "Le DVD",
+   "La disquette"
+  ],
+  "bonne": 0,
+  "explication": "La Nintendo 64 (1996) reste fidèle aux cartouches, plus rapides mais plus chères, ce qui a éloigné certains éditeurs comme Square.",
+  "source": {
+   "titre": "Wikipédia, « Nintendo 64 »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Nintendo%2064"
+  }
+ },
+ {
+  "id": "N3-044",
+  "niveau": 3,
+  "epoque": "Années 2000",
+  "theme": "Anecdotes",
+  "enonce": "Comment les joueurs ont-ils surnommé la panne célèbre de la Xbox 360 ?",
+  "choix": [
+   "Le « cercle rouge de la mort »",
+   "L'« écran bleu de la mort »",
+   "La « lumière jaune de la mort »",
+   "Le « disque noir de la mort »"
+  ],
+  "bonne": 0,
+  "explication": "Trois voyants rouges autour du bouton signalaient une panne matérielle ; Microsoft a dû étendre la garantie de la console.",
+  "source": {
+   "titre": "Wikipédia, « Xbox 360 »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Xbox%20360"
+  }
+ },
+ {
+  "id": "N3-045",
+  "niveau": 3,
+  "epoque": "Années 2000",
+  "theme": "Consoles",
+  "enonce": "Quelle fonction a beaucoup aidé la PlayStation 2 à se vendre à sa sortie en 2000 ?",
+  "choix": [
+   "La lecture des DVD vidéo",
+   "Le jeu en ligne intégré",
+   "Un écran tactile",
+   "Une caméra intégrée"
+  ],
+  "bonne": 0,
+  "explication": "La PS2 lisait les DVD vidéo, alors que les lecteurs de salon coûtaient encore cher : un argument de vente décisif.",
+  "source": {
+   "titre": "Wikipédia, « PlayStation 2 »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=PlayStation%202"
+  }
+ },
+ {
+  "id": "N3-046",
+  "niveau": 3,
+  "epoque": "Années 2010",
+  "theme": "Créateurs",
+  "enonce": "Quel jeu Hideo Kojima a-t-il sorti en 2019, après son départ de Konami ?",
+  "choix": [
+   "Death Stranding",
+   "Metal Gear Survive",
+   "P.T.",
+   "Silent Hills"
+  ],
+  "bonne": 0,
+  "explication": "Death Stranding est le premier jeu de Kojima Productions. Metal Gear Survive a été fait par Konami sans lui, Silent Hills a été annulé.",
+  "source": {
+   "titre": "Wikipédia, « Death Stranding »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Death%20Stranding"
+  }
+ },
+ {
+  "id": "N3-047",
+  "niveau": 3,
+  "epoque": "Années 2010",
+  "theme": "Créateurs",
+  "enonce": "Qui dirige les Dark Souls et Elden Ring chez FromSoftware ?",
+  "choix": [
+   "Hidetaka Miyazaki",
+   "Hayao Miyazaki",
+   "Hideo Kojima",
+   "Masahiro Sakurai"
+  ],
+  "bonne": 0,
+  "explication": "Hidetaka Miyazaki, président de FromSoftware, dirige Demon's Souls, Dark Souls et Elden Ring. Hayao Miyazaki est le cinéaste du studio Ghibli.",
+  "source": {
+   "titre": "Wikipédia, « Hidetaka Miyazaki »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Hidetaka%20Miyazaki"
+  }
+ },
+ {
+  "id": "N3-048",
+  "niveau": 3,
+  "epoque": "Années 2020",
+  "theme": "Consoles",
+  "enonce": "Quel jeu est sorti le même jour que la Nintendo Switch 2, le 5 juin 2025 ?",
+  "choix": [
+   "Mario Kart World",
+   "Donkey Kong Bananza",
+   "Super Mario Odyssey 2",
+   "Mario Kart 9"
+  ],
+  "bonne": 0,
+  "explication": "Mario Kart World accompagne le lancement de la Switch 2. Donkey Kong Bananza suit le 17 juillet 2025.",
+  "source": {
+   "titre": "Justgeek, « Nintendo Switch 2 : date de sortie, prix, jeux… »",
+   "url": "https://www.justgeek.fr/?p=136829"
+  }
+ },
+ {
+  "id": "N3-049",
+  "niveau": 3,
+  "epoque": "Années 2020",
+  "theme": "Actualité",
+  "enonce": "En quelle année Hollow Knight: Silksong est-il enfin sorti ?",
+  "choix": [
+   "2025",
+   "2023",
+   "2024",
+   "2026"
+  ],
+  "bonne": 0,
+  "explication": "Annoncé en 2019, Silksong, la suite de Hollow Knight, sort finalement le 4 septembre 2025.",
+  "source": {
+   "titre": "Startup Daily, « How a team of 3 in Adelaide made the world's hottest game » (en anglais)",
+   "url": "https://www.startupdaily.net/after-hours/gaming/cherry-on-top-how-a-team-of-3-in-adelaide-made-the-worlds-hottest-game-hollow-knight-silksong/"
+  }
+ },
+ {
+  "id": "N3-050",
+  "niveau": 3,
+  "epoque": "Années 2000",
+  "theme": "Studios",
+  "enonce": "Dans quelle ville est basé le studio CD Projekt Red ?",
+  "choix": [
+   "Varsovie",
+   "Cracovie",
+   "Prague",
+   "Berlin"
+  ],
+  "bonne": 0,
+  "explication": "CD Projekt Red, le studio de The Witcher et Cyberpunk 2077, a son siège à Varsovie, en Pologne.",
+  "source": {
+   "titre": "Wikipédia, « CD Projekt »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=CD%20Projekt"
+  }
+ },
+ {
+  "id": "N4-011",
+  "niveau": 4,
+  "epoque": "Années 60",
+  "theme": "Origines",
+  "enonce": "Comment s'appelait le prototype de console de Ralph Baer, ancêtre de la Magnavox Odyssey ?",
+  "choix": [
+   "La Brown Box",
+   "La Black Box",
+   "La Blue Box",
+   "La Magic Box"
+  ],
+  "bonne": 0,
+  "explication": "Ralph Baer construit la « Brown Box » à la fin des années 60 ; Magnavox en tire l'Odyssey en 1972. Le prototype est aujourd'hui au Smithsonian.",
+  "source": {
+   "titre": "Wikipédia, « Magnavox Odyssey »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Magnavox%20Odyssey"
+  }
+ },
+ {
+  "id": "N4-012",
+  "niveau": 4,
+  "epoque": "Années 50",
+  "theme": "Origines",
+  "enonce": "Sur quel ordinateur Alexander Douglas a-t-il programmé OXO, un morpion, en 1952 ?",
+  "choix": [
+   "L'EDSAC",
+   "L'ENIAC",
+   "Le PDP-1",
+   "L'UNIVAC"
+  ],
+  "bonne": 0,
+  "explication": "OXO est programmé en 1952 sur l'EDSAC de l'université de Cambridge, dans le cadre d'une thèse sur l'interaction homme-machine.",
+  "source": {
+   "titre": "Wikipédia (en anglais), « OXO (video game) »",
+   "url": "https://en.wikipedia.org/w/index.php?title=Special%3ASearch&go=Go&search=OXO%20%28video%20game%29"
+  }
+ },
+ {
+  "id": "N4-013",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Industrie",
+  "enonce": "Quelle chaîne de restaurants le fondateur d'Atari, Nolan Bushnell, a-t-il créée en 1977 ?",
+  "choix": [
+   "Chuck E. Cheese",
+   "Pizza Hut",
+   "Dave & Buster's",
+   "Denny's"
+  ],
+  "bonne": 0,
+  "explication": "Bushnell ouvre en 1977 le premier Chuck E. Cheese's Pizza Time Theatre à San José : pizzas, animatroniques et bornes d'arcade.",
+  "source": {
+   "titre": "Wikipédia (en anglais), « Chuck E. Cheese »",
+   "url": "https://en.wikipedia.org/w/index.php?title=Special%3ASearch&go=Go&search=Chuck%20E.%20Cheese"
+  }
+ },
+ {
+  "id": "N4-014",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Anecdotes",
+  "enonce": "De quel jeu de société vient le nom « Atari » ?",
+  "choix": [
+   "Le go",
+   "Les échecs",
+   "Le shōgi",
+   "Le mah-jong"
+  ],
+  "bonne": 0,
+  "explication": "« Atari » est un terme du jeu de go qui signale qu'un groupe de pierres est menacé de capture, l'équivalent d'un « échec ».",
+  "source": {
+   "titre": "Wikipédia, « Atari »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Atari"
+  }
+ },
+ {
+  "id": "N4-015",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Créateurs",
+  "enonce": "Quel ingénieur d'Atari a conçu le jeu Pong en 1972 ?",
+  "choix": [
+   "Allan Alcorn",
+   "Ted Dabney",
+   "Ralph Baer",
+   "Steve Jobs"
+  ],
+  "bonne": 0,
+  "explication": "Nolan Bushnell confie à Allan Alcorn un exercice : faire un jeu de ping-pong. Le résultat, Pong, devient le premier succès d'Atari.",
+  "source": {
+   "titre": "Wikipédia, « Allan Alcorn »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Allan%20Alcorn"
+  }
+ },
+ {
+  "id": "N4-016",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Créateurs",
+  "enonce": "Quel futur cofondateur d'Apple a conçu le circuit du jeu Breakout (1976) pour Atari ?",
+  "choix": [
+   "Steve Wozniak",
+   "Bill Gates",
+   "Paul Allen",
+   "Gordon Moore"
+  ],
+  "bonne": 0,
+  "explication": "Steve Jobs, alors employé d'Atari, a sous-traité la conception de Breakout à son ami Steve Wozniak, qui l'a réalisée en quelques jours.",
+  "source": {
+   "titre": "Wikipédia, « Breakout (jeu vidéo, 1976) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Breakout%20%28jeu%20vid%C3%A9o%2C%201976%29"
+  }
+ },
+ {
+  "id": "N4-017",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Créateurs",
+  "enonce": "Quel ingénieur a dirigé la conception de la Fairchild Channel F (1976), pionnière des cartouches ?",
+  "choix": [
+   "Jerry Lawson",
+   "Ralph Baer",
+   "Allan Alcorn",
+   "Joe Decuir"
+  ],
+  "bonne": 0,
+  "explication": "Jerry Lawson, l'un des premiers ingénieurs afro-américains de la Silicon Valley, a mené l'équipe qui a créé la première console à cartouches interchangeables.",
+  "source": {
+   "titre": "Computing History, « Jerry Lawson » (en anglais)",
+   "url": "https://www.computinghistory.org.uk/det/56956/Jerry-Lawson"
+  }
+ },
+ {
+  "id": "N4-018",
+  "niveau": 4,
+  "epoque": "Années 60",
+  "theme": "Industrie",
+  "enonce": "Quel jouet de Gunpei Yokoi a lancé Nintendo dans le monde du jouet en 1966 ?",
+  "choix": [
+   "L'Ultra Hand, une pince extensible",
+   "Un yo-yo lumineux",
+   "Un robot télécommandé",
+   "Un casse-tête en plastique"
+  ],
+  "bonne": 0,
+  "explication": "Yokoi, alors simple agent de maintenance, invente l'Ultra Hand, un bras articulé extensible vendu à plus d'un million d'exemplaires.",
+  "source": {
+   "titre": "Wikipédia, « Ultra Hand »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Ultra%20Hand"
+  }
+ },
+ {
+  "id": "N4-019",
+  "niveau": 4,
+  "epoque": "Années 2000",
+  "theme": "Industrie",
+  "enonce": "Pendant combien d'années Hiroshi Yamauchi a-t-il présidé Nintendo ?",
+  "choix": [
+   "53 ans",
+   "20 ans",
+   "35 ans",
+   "12 ans"
+  ],
+  "bonne": 0,
+  "explication": "Hiroshi Yamauchi prend la tête de Nintendo en 1949, à 22 ans, et la dirige jusqu'en 2002, où il passe le relais à Satoru Iwata.",
+  "source": {
+   "titre": "Wikipédia, « Hiroshi Yamauchi »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Hiroshi%20Yamauchi"
+  }
+ },
+ {
+  "id": "N4-020",
+  "niveau": 4,
+  "epoque": "Années 50",
+  "theme": "Industrie",
+  "enonce": "De quelle expression le nom « Sega » est-il l'abréviation ?",
+  "choix": [
+   "Service Games",
+   "Sega Enterprises",
+   "Sun Electric Games",
+   "Segment Games"
+  ],
+  "bonne": 0,
+  "explication": "Sega vient de « SErvice GAmes », société américaine qui installait des machines à sous sur les bases militaires américaines, notamment au Japon.",
+  "source": {
+   "titre": "Wikipédia, « Sega »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Sega"
+  }
+ },
+ {
+  "id": "N4-021",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "France",
+  "enonce": "Quel plan du gouvernement français a équipé les écoles d'ordinateurs Thomson en 1985 ?",
+  "choix": [
+   "Le plan Informatique pour tous",
+   "Le plan Calcul",
+   "Le plan Minitel",
+   "Le plan Numérique pour l'école"
+  ],
+  "bonne": 0,
+  "explication": "Lancé en janvier 1985, le plan « Informatique pour tous » installe plus de 100 000 Thomson MO5 et TO7/70 dans les écoles. Le plan Calcul date de 1966.",
+  "source": {
+   "titre": "Wikipédia, « Plan informatique pour tous »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Plan%20informatique%20pour%20tous"
+  }
+ },
+ {
+  "id": "N4-022",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "Industrie",
+  "enonce": "Quel entrepreneur britannique a fondé Amstrad, fabricant du CPC 464 ?",
+  "choix": [
+   "Alan Sugar",
+   "Clive Sinclair",
+   "Jack Tramiel",
+   "Chris Curry"
+  ],
+  "bonne": 0,
+  "explication": "Alan Sugar fonde Amstrad (Alan Michael Sugar Trading) ; le CPC 464 sort en 1984. Jack Tramiel est le patron de Commodore, Sinclair celui du ZX Spectrum.",
+  "source": {
+   "titre": "Wikipédia, « Amstrad »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Amstrad"
+  }
+ },
+ {
+  "id": "N4-023",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "Ordinateurs",
+  "enonce": "Quel ordinateur de Clive Sinclair (1982) a lancé une génération de créateurs de jeux britanniques ?",
+  "choix": [
+   "Le ZX Spectrum",
+   "Le BBC Micro",
+   "L'Amstrad CPC",
+   "Le Commodore 64"
+  ],
+  "bonne": 0,
+  "explication": "Le ZX Spectrum, bon marché, a permis à des milliers d'amateurs britanniques de programmer leurs propres jeux dans les années 80.",
+  "source": {
+   "titre": "Wikipédia, « ZX Spectrum »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=ZX%20Spectrum"
+  }
+ },
+ {
+  "id": "N4-024",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "France",
+  "enonce": "Quel est le tout premier jeu publié par Ubisoft, en 1986 ?",
+  "choix": [
+   "Zombi",
+   "Rayman",
+   "Iron Lord",
+   "Fer & Flamme"
+  ],
+  "bonne": 0,
+  "explication": "Zombi, inspiré du film Zombie de George Romero, sort en 1986 sur Amstrad CPC : c'est la première publication d'Ubi Soft.",
+  "source": {
+   "titre": "Wikipédia (en anglais), « Zombi (1986 video game) »",
+   "url": "https://en.wikipedia.org/w/index.php?title=Special%3ASearch&go=Go&search=Zombi%20%281986%20video%20game%29"
+  }
+ },
+ {
+  "id": "N4-025",
+  "niveau": 4,
+  "epoque": "Années 90",
+  "theme": "France",
+  "enonce": "Quel studio français a adapté Dune en jeu vidéo en 1992 ?",
+  "choix": [
+   "Cryo Interactive",
+   "Delphine Software",
+   "Coktel Vision",
+   "Infogrames"
+  ],
+  "bonne": 0,
+  "explication": "Dune (1992), mêlant aventure et stratégie, est le premier jeu de Cryo, fondé par Philippe Ulrich et Rémi Herbulot. Dune II, de Westwood, sort la même année.",
+  "source": {
+   "titre": "CNC, « Philippe Ulrich : Avec Dune, nous avons imaginé le premier CD-ROM de l'histoire »",
+   "url": "https://www.cnc.fr/jeu-video/actualites/philippe-ulrich---avec-dune-nous-avonsimagine-le-premier-cdrom-de-lhistoire_941747"
+  }
+ },
+ {
+  "id": "N4-026",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "France",
+  "enonce": "Quel est le premier magazine français entièrement consacré aux jeux vidéo, lancé en 1982 ?",
+  "choix": [
+   "Tilt",
+   "Joystick",
+   "Player One",
+   "Génération 4"
+  ],
+  "bonne": 0,
+  "explication": "Tilt paraît en septembre 1982 et s'arrête en 1994. Joystick, Génération 4 et Player One arrivent plus tard.",
+  "source": {
+   "titre": "Wikipédia, « Tilt (magazine) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Tilt%20%28magazine%29"
+  }
+ },
+ {
+  "id": "N4-027",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "Industrie",
+  "enonce": "Quel homme d'affaires a obtenu des Soviétiques les droits de Tetris pour la Game Boy ?",
+  "choix": [
+   "Henk Rogers",
+   "Robert Maxwell",
+   "Jack Tramiel",
+   "Trip Hawkins"
+  ],
+  "bonne": 0,
+  "explication": "Henk Rogers, éditeur installé au Japon, négocie à Moscou en 1989 avec l'agence soviétique ELORG et obtient les droits pour Nintendo.",
+  "source": {
+   "titre": "Wikipédia, « Henk Rogers »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Henk%20Rogers"
+  }
+ },
+ {
+  "id": "N4-028",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "Industrie",
+  "enonce": "Qui a fondé l'éditeur Electronic Arts en 1982 ?",
+  "choix": [
+   "Trip Hawkins",
+   "Nolan Bushnell",
+   "Bobby Kotick",
+   "Ken Williams"
+  ],
+  "bonne": 0,
+  "explication": "Trip Hawkins quitte Apple pour fonder Electronic Arts en 1982. Il lancera ensuite la console 3DO.",
+  "source": {
+   "titre": "Wikipédia, « Trip Hawkins »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Trip%20Hawkins"
+  }
+ },
+ {
+  "id": "N4-029",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "Créateurs",
+  "enonce": "Quelle conceptrice a créé la série King's Quest (1984) chez Sierra ?",
+  "choix": [
+   "Roberta Williams",
+   "Jane Jensen",
+   "Brenda Romero",
+   "Amy Hennig"
+  ],
+  "bonne": 0,
+  "explication": "Roberta Williams, cofondatrice de Sierra On-Line avec son mari Ken, crée King's Quest, pionnier du jeu d'aventure graphique.",
+  "source": {
+   "titre": "Wikipédia, « Roberta Williams »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Roberta%20Williams"
+  }
+ },
+ {
+  "id": "N4-030",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Origines",
+  "enonce": "Qui a programmé Colossal Cave Adventure, ancêtre des jeux d'aventure (1976) ?",
+  "choix": [
+   "Will Crowther",
+   "Roy Trubshaw",
+   "Warren Robinett",
+   "Steve Russell"
+  ],
+  "bonne": 0,
+  "explication": "Will Crowther, programmeur et spéléologue, écrit Colossal Cave Adventure en s'inspirant d'une grotte du Kentucky ; Don Woods l'enrichit ensuite.",
+  "source": {
+   "titre": "Wikipédia, « Colossal Cave Adventure »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Colossal%20Cave%20Adventure"
+  }
+ },
+ {
+  "id": "N4-031",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "Industrie",
+  "enonce": "Quelle société a commercialisé le jeu d'aventure textuel Zork ?",
+  "choix": [
+   "Infocom",
+   "Sierra On-Line",
+   "Epyx",
+   "Activision"
+  ],
+  "bonne": 0,
+  "explication": "Zork, créé par des étudiants du MIT, est commercialisé par Infocom à partir de 1980.",
+  "source": {
+   "titre": "Wikipédia, « Zork »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Zork"
+  }
+ },
+ {
+  "id": "N4-032",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Industrie",
+  "enonce": "Quel est le premier éditeur indépendant de jeux pour console, fondé en 1979 par d'anciens d'Atari ?",
+  "choix": [
+   "Activision",
+   "Imagic",
+   "Electronic Arts",
+   "Coleco"
+  ],
+  "bonne": 0,
+  "explication": "Quatre programmeurs quittent Atari, qui ne les créditait pas, et fondent Activision en 1979 : le premier éditeur « tiers » de l'histoire.",
+  "source": {
+   "titre": "Wikipédia, « Activision »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Activision"
+  }
+ },
+ {
+  "id": "N4-033",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "Créateurs",
+  "enonce": "Qui a créé Pitfall! (1982) chez Activision ?",
+  "choix": [
+   "David Crane",
+   "Howard Scott Warshaw",
+   "Warren Robinett",
+   "Steve Cartwright"
+  ],
+  "bonne": 0,
+  "explication": "David Crane crée Pitfall!, l'un des jeux les plus vendus de l'Atari 2600. Warshaw est l'auteur d'E.T.",
+  "source": {
+   "titre": "Wikipédia, « Pitfall! »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Pitfall%21"
+  }
+ },
+ {
+  "id": "N4-034",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "Anecdotes",
+  "enonce": "En combien de temps environ le jeu E.T. (1982) a-t-il été développé ?",
+  "choix": [
+   "Environ 5 semaines",
+   "Environ 6 mois",
+   "Environ 1 an",
+   "Environ 2 ans"
+  ],
+  "bonne": 0,
+  "explication": "Pour sortir à Noël 1982, Howard Scott Warshaw n'a eu qu'environ cinq semaines pour créer E.T., souvent cité comme l'un des pires jeux de l'histoire.",
+  "source": {
+   "titre": "BuzzWebzine, « Atari a enterré 728 000 cartouches dans le désert en 1983 »",
+   "url": "https://www.buzzwebzine.fr/et-atari-jeu-enterre-alamogordo/"
+  }
+ },
+ {
+  "id": "N4-035",
+  "niveau": 4,
+  "epoque": "Années 90",
+  "theme": "Consoles",
+  "enonce": "Comment s'appelait la carte mémoire à petit écran de la Dreamcast ?",
+  "choix": [
+   "Le VMU (Visual Memory Unit)",
+   "Le PocketStation",
+   "Le Memory Pak",
+   "Le Rumble Pak"
+  ],
+  "bonne": 0,
+  "explication": "Le VMU de la Dreamcast servait de carte mémoire et de mini-console. La PocketStation est son équivalent chez Sony, le Rumble Pak un accessoire de la N64.",
+  "source": {
+   "titre": "Wikipédia, « Visual Memory Unit »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Visual%20Memory%20Unit"
+  }
+ },
+ {
+  "id": "N4-036",
+  "niveau": 4,
+  "epoque": "Années 90",
+  "theme": "Consoles",
+  "enonce": "Quelle console d'Atari (1993) se présentait comme la première « 64 bits » ?",
+  "choix": [
+   "La Jaguar",
+   "La Lynx",
+   "L'Atari 7800",
+   "Le Falcon"
+  ],
+  "bonne": 0,
+  "explication": "L'Atari Jaguar est vendue avec le slogan « Do the Math » pour vanter ses 64 bits. Ce fut la dernière console d'Atari.",
+  "source": {
+   "titre": "Wikipédia, « Jaguar (console) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Jaguar%20%28console%29"
+  }
+ },
+ {
+  "id": "N4-037",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "Consoles",
+  "enonce": "Quel constructeur a fabriqué la PC Engine (1987), conçue avec Hudson Soft ?",
+  "choix": [
+   "NEC",
+   "Sony",
+   "Sharp",
+   "Fujitsu"
+  ],
+  "bonne": 0,
+  "explication": "La PC Engine (TurboGrafx-16 aux États-Unis) est le fruit d'un partenariat entre NEC et Hudson Soft ; elle a battu la Famicom au Japon un temps.",
+  "source": {
+   "titre": "Wikipédia, « PC Engine »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=PC%20Engine"
+  }
+ },
+ {
+  "id": "N4-038",
+  "niveau": 4,
+  "epoque": "Années 90",
+  "theme": "Consoles",
+  "enonce": "Quelle console de SNK reprenait le matériel de ses bornes d'arcade ?",
+  "choix": [
+   "La Neo-Geo",
+   "La PC-FX",
+   "Le CPS Changer",
+   "La 3DO"
+  ],
+  "bonne": 0,
+  "explication": "La Neo-Geo AES (1990) offrait à domicile les jeux d'arcade de SNK à l'identique, avec des cartouches vendues à des prix très élevés.",
+  "source": {
+   "titre": "Wikipédia, « Neo-Geo AES »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Neo-Geo%20AES"
+  }
+ },
+ {
+  "id": "N4-039",
+  "niveau": 4,
+  "epoque": "Années 90",
+  "theme": "Musique",
+  "enonce": "Quel compositeur a signé la musique de Streets of Rage (1991) ?",
+  "choix": [
+   "Yuzo Koshiro",
+   "Koji Kondo",
+   "Nobuo Uematsu",
+   "Hiroki Kikuta"
+  ],
+  "bonne": 0,
+  "explication": "Yuzo Koshiro compose la bande-son électro de Streets of Rage, inspirée de la house et de la techno de l'époque.",
+  "source": {
+   "titre": "Wikipédia, « Yuzo Koshiro »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Yuzo%20Koshiro"
+  }
+ },
+ {
+  "id": "N4-040",
+  "niveau": 4,
+  "epoque": "Années 90",
+  "theme": "Musique",
+  "enonce": "Quelle compositrice a signé la musique de Street Fighter II et de Kingdom Hearts ?",
+  "choix": [
+   "Yoko Shimomura",
+   "Michiru Yamane",
+   "Mieko Ishikawa",
+   "Junko Tamiya"
+  ],
+  "bonne": 0,
+  "explication": "Yoko Shimomura compose chez Capcom (Street Fighter II, 1991) puis chez Square (Kingdom Hearts, 2002).",
+  "source": {
+   "titre": "Wikipédia, « Yoko Shimomura »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Yoko%20Shimomura"
+  }
+ },
+ {
+  "id": "N4-041",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Industrie",
+  "enonce": "Quel grand magasin américain a vendu en exclusivité la version salon de Pong à Noël 1975 ?",
+  "choix": [
+   "Sears",
+   "Walmart",
+   "Macy's",
+   "Toys \"R\" Us"
+  ],
+  "bonne": 0,
+  "explication": "Sears commande 150 000 consoles Pong à Atari et les vend sous sa marque Tele-Games pour Noël 1975.",
+  "source": {
+   "titre": "Pong-Story, « Atari PONG » (en anglais)",
+   "url": "https://pong-story.com/atpong2.htm"
+  }
+ },
+ {
+  "id": "N4-042",
+  "niveau": 4,
+  "epoque": "Années 50",
+  "theme": "Origines",
+  "enonce": "À quel jeu jouait l'ordinateur Nimrod, présenté au Festival of Britain en 1951 ?",
+  "choix": [
+   "Le jeu de Nim",
+   "Les échecs",
+   "Le morpion",
+   "Les dames"
+  ],
+  "bonne": 0,
+  "explication": "Le Nimrod, construit par Ferranti, était un ordinateur conçu uniquement pour jouer au jeu de Nim. Alan Turing l'a même essayé.",
+  "source": {
+   "titre": "Wikipédia (en anglais), « Nimrod (computer) »",
+   "url": "https://en.wikipedia.org/w/index.php?title=Special%3ASearch&go=Go&search=Nimrod%20%28computer%29"
+  }
+ },
+ {
+  "id": "N4-043",
+  "niveau": 4,
+  "epoque": "Années 50",
+  "theme": "Origines",
+  "enonce": "Quelle machine présentée à Toronto en 1950 jouait au morpion contre le public ?",
+  "choix": [
+   "Bertie the Brain",
+   "Nimrod",
+   "OXO",
+   "Deep Blue"
+  ],
+  "bonne": 0,
+  "explication": "Bertie the Brain, construit par Josef Kates pour l'Exposition nationale canadienne de 1950, mesurait quatre mètres de haut.",
+  "source": {
+   "titre": "Wikipédia (en anglais), « Bertie the Brain »",
+   "url": "https://en.wikipedia.org/w/index.php?title=Special%3ASearch&go=Go&search=Bertie%20the%20Brain"
+  }
+ },
+ {
+  "id": "N4-044",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Créateurs",
+  "enonce": "Quel célèbre jeu électronique à quatre touches colorées a aussi été inventé par Ralph Baer, en 1978 ?",
+  "choix": [
+   "Simon",
+   "Speak & Spell",
+   "Merlin",
+   "Tamagotchi"
+  ],
+  "bonne": 0,
+  "explication": "Ralph Baer, père de l'Odyssey, a inventé Simon avec Howard Morrison ; le jeu est lancé par Milton Bradley en 1978.",
+  "source": {
+   "titre": "Smithsonian, « Simon Electronic Game, 1978 » (en anglais)",
+   "url": "https://www.si.edu/object/nmah_1302005"
+  }
+ },
+ {
+  "id": "N4-045",
+  "niveau": 4,
+  "epoque": "Années 90",
+  "theme": "France",
+  "enonce": "Sur quelle planète se déroule Little Big Adventure (1994), de Frédérick Raynal ?",
+  "choix": [
+   "Twinsun",
+   "Arrakis",
+   "Zebes",
+   "Gaïa"
+  ],
+  "bonne": 0,
+  "explication": "Little Big Adventure, du studio lyonnais Adeline Software, se déroule sur Twinsun, planète coincée entre deux soleils. Arrakis est la planète de Dune.",
+  "source": {
+   "titre": "Wikipédia, « Little Big Adventure »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Little%20Big%20Adventure"
+  }
+ },
+ {
+  "id": "N4-046",
+  "niveau": 4,
+  "epoque": "Années 2000",
+  "theme": "France",
+  "enonce": "Dans quelle ville est né le studio Ankama, créateur de Dofus (2004) ?",
+  "choix": [
+   "Roubaix",
+   "Lille",
+   "Lyon",
+   "Montpellier"
+  ],
+  "bonne": 0,
+  "explication": "Ankama est fondé en 2001 à Roubaix ; son jeu en ligne Dofus est lancé en 2004 et devient un phénomène en France.",
+  "source": {
+   "titre": "Wikipédia, « Ankama »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Ankama"
+  }
+ },
+ {
+  "id": "N4-047",
+  "niveau": 4,
+  "epoque": "Années 90",
+  "theme": "Créateurs",
+  "enonce": "Quelle passion d'enfance de Satoshi Tajiri a inspiré Pokémon ?",
+  "choix": [
+   "La collection d'insectes",
+   "La collection de timbres",
+   "Les cartes à jouer",
+   "Les jeux de dés"
+  ],
+  "bonne": 0,
+  "explication": "Enfant, Satoshi Tajiri collectionnait les insectes dans la campagne de Tokyo : capturer et échanger des créatures en est l'héritage.",
+  "source": {
+   "titre": "Wikipédia, « Satoshi Tajiri »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Satoshi%20Tajiri"
+  }
+ },
+ {
+  "id": "N4-048",
+  "niveau": 4,
+  "epoque": "Années 80",
+  "theme": "Industrie",
+  "enonce": "Avant de devenir un studio de jeux vidéo, qu'était Game Freak ?",
+  "choix": [
+   "Un fanzine",
+   "Un magasin de jeux",
+   "Une salle d'arcade",
+   "Un club informatique"
+  ],
+  "bonne": 0,
+  "explication": "Game Freak est d'abord un fanzine consacré aux jeux d'arcade, créé par Satoshi Tajiri en 1983 ; il devient un studio en 1989.",
+  "source": {
+   "titre": "Wikipédia, « Game Freak »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Game%20Freak"
+  }
+ },
+ {
+  "id": "N4-049",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Créateurs",
+  "enonce": "Quelles études Shigeru Miyamoto a-t-il suivies avant d'entrer chez Nintendo ?",
+  "choix": [
+   "Le design industriel",
+   "L'informatique",
+   "La musique",
+   "L'architecture"
+  ],
+  "bonne": 0,
+  "explication": "Miyamoto est diplômé en design industriel ; il entre chez Nintendo en 1977 comme artiste, sans formation en programmation.",
+  "source": {
+   "titre": "Wikipédia, « Shigeru Miyamoto »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Shigeru%20Miyamoto"
+  }
+ },
+ {
+  "id": "N4-050",
+  "niveau": 4,
+  "epoque": "Années 70",
+  "theme": "Consoles",
+  "enonce": "Quelle est la toute première console de salon de Nintendo, sortie au Japon en 1977 ?",
+  "choix": [
+   "La Color TV-Game",
+   "La Famicom",
+   "La Game & Watch",
+   "Le Virtual Boy"
+  ],
+  "bonne": 0,
+  "explication": "La Color TV-Game 6, sortie le 1er juin 1977, est une console de type Pong conçue avec Mitsubishi. La Famicom n'arrive qu'en 1983.",
+  "source": {
+   "titre": "Wikipédia (en anglais), « Color TV-Game »",
+   "url": "https://en.wikipedia.org/w/index.php?title=Special%3ASearch&go=Go&search=Color%20TV-Game"
+  }
+ }
+]
