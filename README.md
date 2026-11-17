@@ -67,6 +67,15 @@ python3 -m http.server 8000
 # puis ouvrir http://localhost:8000
 ```
 
+## Publication
+
+Le site est servi par GitHub Pages depuis la branche `gh-pages`.
+Publier une nouvelle version = pousser `main`, puis la recopier sur `gh-pages` :
+
+```bash
+git push origin main && git push origin main:gh-pages
+```
+
 ## Feuille de route
 
 - **v0.5** (actuelle) : mise en ligne, question du jour, mode Challenge
