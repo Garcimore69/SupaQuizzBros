@@ -7,7 +7,7 @@ Le quiz du jeu vidéo en français, de Pong à aujourd'hui.
 - **Question du jour** : la même pour tout le monde, sans chrono, avec une série de jours consécutifs.
 - **4 niveaux** progressifs (Joueur du dimanche, Gamer, Hardcore, Légende) : 7/10 débloque le niveau suivant.
 - **Mode Challenge** : 10 secondes par question au lieu de 20, débloqué avec 7/10 sur un niveau.
-- **200 questions sourcées** : chaque réponse est expliquée et renvoie vers une source vérifiable.
+- **208 questions sourcées** : chaque réponse est expliquée et renvoie vers une source vérifiable.
 - Aucun compte, aucun serveur : la progression reste dans le navigateur du joueur.
 
 ## Organisation du code
@@ -31,8 +31,10 @@ Hébergement : GitHub Pages, gratuit, sans compte supplémentaire.
 
 ## Banque de questions
 
-Les questions sont écrites dans `outils/generer_banque.py` (lot d'origine) et
-`outils/banque_n1.py` … `banque_n4.py` (un lot par niveau). Pour les régénérer :
+Les questions sont écrites dans `outils/generer_banque.py` (lot d'origine),
+`outils/banque_n1.py` … `banque_n4.py` (un lot par niveau) et `outils/banque_v05.py`.
+Les identifiants sont figés dans `outils/identifiants.json` : une question garde le sien
+même si elle change de niveau. Pour les régénérer :
 
 ```bash
 python3 outils/generer_banque.py
@@ -55,7 +57,7 @@ Format d'une question :
 | `explication` | 1 à 2 phrases (230 caractères maximum) |
 | `source` | `{ titre, url }` |
 
-**Calibrage des niveaux :** Hardcore = faits qu'un joueur passionné peut retrouver ou
+**Calibrage des niveaux :** Joueur du dimanche = ce qu'on voit en jouant (personnages, couleurs, objets, principe du jeu) et les grandes marques, jamais de créateur, de studio, de date précise ni de technique ; Gamer = séries, studios et consoles ; Hardcore = faits qu'un joueur passionné peut retrouver ou
 déduire ; Légende = faits qu'on ne devine pas (pionniers, coulisses, compositeurs).
 
 ## Tester en local

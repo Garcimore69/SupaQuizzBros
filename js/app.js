@@ -101,9 +101,10 @@ function htmlPropositions(q) {
 function preparerJour() {
   const date = jourLocal();
   if (jour?.date === date) return jour;
-  const q = questionDuJour(QUESTIONS, date);
-  jour = { date, question: preparerQuestion(q), reponse: null };
+  // Déjà jouée aujourd'hui : on reprend la question enregistrée (la banque a pu changer entre-temps)
   const deja = resultatDuJour(date);
+  const q = (deja && QUESTIONS.find(x => x.id === deja.id)) || questionDuJour(QUESTIONS, date);
+  jour = { date, question: preparerQuestion(q), reponse: null };
   if (deja) jour.reponse = deja.juste ? jour.question.bonneMelangee : -1; // -1 : ratée
   return jour;
 }

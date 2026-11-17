@@ -33,18 +33,18 @@ sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from outils import wp, web  # noqa: E402
 from verifier import verifier  # noqa: E402
 
-LOTS = ("banque_n1", "banque_n2", "banque_n3", "banque_n4")
+LOTS = ("banque_n1", "banque_n2", "banque_n3", "banque_n4", "banque_v05")
 SORTIE = pathlib.Path(__file__).resolve().parent.parent / "data" / "questions.json"
 
 # (niveau, époque, thème, énoncé, [bonne réponse en premier, puis 3 leurres], explication, source)
 # La bonne réponse est écrite en premier ici ; l'appli mélange les propositions à chaque partie.
 Q = [
  # ---------- Niveau 1 · Joueur du dimanche ----------
- (1, "Années 80", "Puzzle", "Qui a créé Tetris en 1984 ?",
+ (2, "Années 80", "Puzzle", "Qui a créé Tetris en 1984 ?",
   ["Alekseï Pajitnov", "Shigeru Miyamoto", "Hideo Kojima", "Toru Iwatani"],
   "Alekseï Pajitnov, chercheur à l'Académie des sciences d'URSS à Moscou, programme Tetris en 1984 sur un ordinateur Electronika 60.",
   wp("Tetris")),
- (1, "Années 80", "Arcade", "Quelle entreprise japonaise a créé Pac-Man en 1980 ?",
+ (2, "Années 80", "Arcade", "Quelle entreprise japonaise a créé Pac-Man en 1980 ?",
   ["Namco", "Sega", "Taito", "Konami"],
   "Pac-Man est développé et édité par Namco en 1980 ; il devient l'un des jeux d'arcade les plus célèbres de l'histoire.",
   wp("Pac-Man")),
@@ -52,11 +52,11 @@ Q = [
   ["Donkey Kong", "Super Mario Bros.", "Mario Bros.", "Popeye"],
   "Mario fait ses débuts en 1981 dans Donkey Kong, sous le nom de « Jumpman ». Super Mario Bros. n'arrive qu'en 1985.",
   wp("Donkey Kong (jeu vidéo, 1981)")),
- (1, "Années 90", "Studios", "Quelle entreprise a créé Sonic the Hedgehog en 1991 ?",
+ (1, "Années 90", "Marques", "Quelle entreprise a créé Sonic the Hedgehog en 1991 ?",
   ["Sega", "Nintendo", "Capcom", "Sony"],
   "Sonic est créé par Sega en 1991 pour sa Mega Drive, afin de concurrencer Mario.",
   wp("Sonic the Hedgehog (jeu vidéo, 1991)")),
- (1, "Années 2010", "Bac à sable", "Qui est le créateur de Minecraft ?",
+ (2, "Années 2010", "Bac à sable", "Qui est le créateur de Minecraft ?",
   ["Markus « Notch » Persson", "Will Wright", "John Romero", "Todd Howard"],
   "Le Suédois Markus Persson, dit « Notch », lance Minecraft en 2009 ; son studio Mojang est racheté par Microsoft en 2014.",
   wp("Minecraft")),
@@ -214,12 +214,28 @@ Q = [
 for nom in LOTS:
     Q += importlib.import_module(nom).Q
 
+# Identifiants figés : une question garde son identifiant même si elle change de niveau
+# (le préfixe N1…N4 indique le niveau d'origine). Les nouvelles questions reçoivent
+# le numéro suivant libre de leur niveau. Modifier le texte d'un énoncé crée un nouvel identifiant.
+REGISTRE = pathlib.Path(__file__).parent / "identifiants.json"
+registre = json.loads(REGISTRE.read_text(encoding="utf-8")) if REGISTRE.exists() else {}
+pris = set(registre.values())
+
+def nouvel_id(niveau):
+    n = 1
+    while f"N{niveau}-{n:03d}" in pris:
+        n += 1
+    pris.add(f"N{niveau}-{n:03d}")
+    return f"N{niveau}-{n:03d}"
+
 out, compteur = [], {1: 0, 2: 0, 3: 0, 4: 0}
 for niveau, epoque, theme, enonce, choix, expl, source in Q:
     assert len(choix) == 4 and len(set(choix)) == 4, enonce
     compteur[niveau] += 1
+    if enonce not in registre:
+        registre[enonce] = nouvel_id(niveau)
     out.append({
-        "id": f"N{niveau}-{compteur[niveau]:03d}",
+        "id": registre[enonce],
         "niveau": niveau, "epoque": epoque, "theme": theme,
         "enonce": enonce, "choix": choix, "bonne": 0,
         "explication": expl, "source": source,
@@ -230,4 +246,5 @@ if problemes:
     print("\n".join(problemes))
     sys.exit("Banque NON générée : corriger les problèmes ci-dessus.")
 SORTIE.write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+REGISTRE.write_text(json.dumps(registre, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 print(len(out), "questions", compteur, "->", SORTIE)

@@ -26,13 +26,20 @@ def verifier(questions):
             pb.append(f"{q['id']} : la source doit être un lien https")
         if len(q["explication"]) > 230:
             pb.append(f"{q['id']} : explication trop longue (230 caractères max)")
-    # Une explication ne doit pas souffler la réponse d'une autre question du même niveau
+    # Niveau 1 : ni créateurs ni studios (règle validée avec le client le 17/11/2026)
+    for q in questions:
+        if q["niveau"] == 1 and q["theme"] in {"Studios", "Créateurs"}:
+            pb.append(f"{q['id']} : thème « {q['theme']} » interdit au niveau 1 (Joueur du dimanche)")
+    # Une explication (ou un énoncé) ne doit pas souffler la réponse d'une autre question du même niveau
     for a in questions:
         for b in questions:
             if a is b or a["niveau"] != b["niveau"]:
                 continue
             rep = b["choix"][b["bonne"]].lower()
             if (len(rep) > 5 and rep not in INDICES_TOLERES
-                    and rep in a["explication"].lower() and rep not in b["enonce"].lower()):
-                pb.append(f"{a['id']} : l'explication souffle la réponse de {b['id']} (« {rep} »)")
+                    and rep not in b["enonce"].lower()):
+                if rep in a["explication"].lower():
+                    pb.append(f"{a['id']} : l'explication souffle la réponse de {b['id']} (« {rep} »)")
+                if rep in a["enonce"].lower():
+                    pb.append(f"{a['id']} : l'énoncé souffle la réponse de {b['id']} (« {rep} »)")
     return pb

@@ -1,7 +1,7 @@
 [
  {
   "id": "N1-001",
-  "niveau": 1,
+  "niveau": 2,
   "epoque": "Années 80",
   "theme": "Puzzle",
   "enonce": "Qui a créé Tetris en 1984 ?",
@@ -20,7 +20,7 @@
  },
  {
   "id": "N1-002",
-  "niveau": 1,
+  "niveau": 2,
   "epoque": "Années 80",
   "theme": "Arcade",
   "enonce": "Quelle entreprise japonaise a créé Pac-Man en 1980 ?",
@@ -60,7 +60,7 @@
   "id": "N1-004",
   "niveau": 1,
   "epoque": "Années 90",
-  "theme": "Studios",
+  "theme": "Marques",
   "enonce": "Quelle entreprise a créé Sonic the Hedgehog en 1991 ?",
   "choix": [
    "Sega",
@@ -77,7 +77,7 @@
  },
  {
   "id": "N1-005",
-  "niveau": 1,
+  "niveau": 2,
   "epoque": "Années 2010",
   "theme": "Bac à sable",
   "enonce": "Qui est le créateur de Minecraft ?",
@@ -837,7 +837,7 @@
  },
  {
   "id": "N1-015",
-  "niveau": 1,
+  "niveau": 2,
   "epoque": "Années 2010",
   "theme": "Studios",
   "enonce": "Quel studio a créé Fortnite ?",
@@ -989,7 +989,7 @@
  },
  {
   "id": "N1-023",
-  "niveau": 1,
+  "niveau": 2,
   "epoque": "Années 90",
   "theme": "Course",
   "enonce": "Sur quelle console est sorti le premier Mario Kart, en 1992 ?",
@@ -1029,7 +1029,7 @@
   "id": "N1-025",
   "niveau": 1,
   "epoque": "Années 2000",
-  "theme": "Studios",
+  "theme": "Marques",
   "enonce": "Quel éditeur publie la série Assassin's Creed ?",
   "choix": [
    "Ubisoft",
@@ -1160,7 +1160,7 @@
  },
  {
   "id": "N1-032",
-  "niveau": 1,
+  "niveau": 2,
   "epoque": "Années 2000",
   "theme": "Studios",
   "enonce": "Quel studio a créé World of Warcraft (2004) ?",
@@ -1179,7 +1179,7 @@
  },
  {
   "id": "N1-033",
-  "niveau": 1,
+  "niveau": 2,
   "epoque": "Années 2000",
   "theme": "Studios",
   "enonce": "Quel studio a créé League of Legends ?",
@@ -1198,7 +1198,7 @@
  },
  {
   "id": "N1-034",
-  "niveau": 1,
+  "niveau": 2,
   "epoque": "Années 70",
   "theme": "Arcade",
   "enonce": "Quelle entreprise japonaise a créé Space Invaders en 1978 ?",
@@ -1236,7 +1236,7 @@
  },
  {
   "id": "N1-036",
-  "niveau": 1,
+  "niveau": 2,
   "epoque": "Années 80",
   "theme": "Combat",
   "enonce": "Quel éditeur japonais a créé Street Fighter ?",
@@ -1293,7 +1293,7 @@
  },
  {
   "id": "N1-039",
-  "niveau": 1,
+  "niveau": 2,
   "epoque": "Années 90",
   "theme": "Genres",
   "enonce": "À quel genre appartient Resident Evil (1996) ?",
@@ -1331,7 +1331,7 @@
  },
  {
   "id": "N1-041",
-  "niveau": 1,
+  "niveau": 2,
   "epoque": "Années 2000",
   "theme": "PC",
   "enonce": "Comment s'appelle la boutique de jeux PC lancée par Valve en 2003 ?",
@@ -1407,7 +1407,7 @@
  },
  {
   "id": "N1-045",
-  "niveau": 1,
+  "niveau": 2,
   "epoque": "Années 80",
   "theme": "Personnages",
   "enonce": "Quel héros robot bleu Capcom a-t-il lancé en 1987 ?",
@@ -1485,7 +1485,7 @@
   "id": "N1-049",
   "niveau": 1,
   "epoque": "Années 80",
-  "theme": "Studios",
+  "theme": "Marques",
   "enonce": "De quel pays vient l'éditeur Ubisoft ?",
   "choix": [
    "France",
@@ -1673,7 +1673,7 @@
  },
  {
   "id": "N2-019",
-  "niveau": 2,
+  "niveau": 1,
   "epoque": "Années 90",
   "theme": "Combat",
   "enonce": "Quelle série de Nintendo fait s'affronter Mario, Link, Pikachu et bien d'autres ?",
@@ -1806,7 +1806,7 @@
  },
  {
   "id": "N2-026",
-  "niveau": 2,
+  "niveau": 1,
   "epoque": "Années 90",
   "theme": "Plateforme",
   "enonce": "Quel est le premier jeu Mario entièrement en 3D, sorti en 1996 ?",
@@ -1843,11 +1843,11 @@
   }
  },
  {
-  "id": "N2-028",
+  "id": "N2-051",
   "niveau": 2,
   "epoque": "Années 90",
   "theme": "Consoles",
-  "enonce": "Quelle console de Sega rivalisait avec la Super Nintendo au début des années 90 ?",
+  "enonce": "Quelle console 16 bits de Sega rivalisait avec Nintendo au début des années 90 ?",
   "choix": [
    "Mega Drive",
    "Saturn",
@@ -1855,7 +1855,7 @@
    "Dreamcast"
   ],
   "bonne": 0,
-  "explication": "La Mega Drive (Genesis aux États-Unis) affronte la Super Nintendo ; c'est la « guerre des consoles » de Sonic contre Mario.",
+  "explication": "La Mega Drive (Genesis aux États-Unis) affronte la console 16 bits de Nintendo ; c'est la « guerre des consoles » de Sonic contre Mario.",
   "source": {
    "titre": "Wikipédia, « Mega Drive »",
    "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Mega%20Drive"
@@ -1893,7 +1893,7 @@
    "Mark III"
   ],
   "bonne": 0,
-  "explication": "La NES est d'abord sortie au Japon en 1983 sous le nom de Famicom (Family Computer). La Super Famicom est la Super Nintendo.",
+  "explication": "La NES est d'abord sortie au Japon en 1983 sous le nom de Famicom (Family Computer). La Super Famicom est la console suivante, en 1990.",
   "source": {
    "titre": "Wikipédia, « Nintendo Entertainment System »",
    "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Nintendo%20Entertainment%20System"
@@ -1920,7 +1920,7 @@
  },
  {
   "id": "N2-032",
-  "niveau": 2,
+  "niveau": 1,
   "epoque": "Années 2010",
   "theme": "Sport",
   "enonce": "Dans Rocket League (2015), avec quoi joue-t-on au football ?",
@@ -1958,7 +1958,7 @@
  },
  {
   "id": "N2-034",
-  "niveau": 2,
+  "niveau": 1,
   "epoque": "Années 2010",
   "theme": "Tir",
   "enonce": "Dans Splatoon (2015), avec quoi les équipes recouvrent-elles l'arène ?",
@@ -3173,11 +3173,11 @@
   }
  },
  {
-  "id": "N4-018",
+  "id": "N4-051",
   "niveau": 4,
   "epoque": "Années 60",
   "theme": "Industrie",
-  "enonce": "Quel jouet de Gunpei Yokoi a lancé Nintendo dans le monde du jouet en 1966 ?",
+  "enonce": "Quel jouet a lancé Nintendo dans le monde du jouet en 1966 ?",
   "choix": [
    "L'Ultra Hand, une pince extensible",
    "Un yo-yo lumineux",
@@ -3185,7 +3185,7 @@
    "Un casse-tête en plastique"
   ],
   "bonne": 0,
-  "explication": "Yokoi, alors simple agent de maintenance, invente l'Ultra Hand, un bras articulé extensible vendu à plus d'un million d'exemplaires.",
+  "explication": "Un jeune agent de maintenance de Nintendo invente l'Ultra Hand, un bras articulé extensible vendu à plus d'un million d'exemplaires.",
   "source": {
    "titre": "Wikipédia, « Ultra Hand »",
    "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Ultra%20Hand"
@@ -3458,11 +3458,11 @@
   }
  },
  {
-  "id": "N4-033",
+  "id": "N4-052",
   "niveau": 4,
   "epoque": "Années 80",
   "theme": "Créateurs",
-  "enonce": "Qui a créé Pitfall! (1982) chez Activision ?",
+  "enonce": "Qui a créé Pitfall! (1982) sur Atari 2600 ?",
   "choix": [
    "David Crane",
    "Howard Scott Warshaw",
@@ -3686,11 +3686,11 @@
   }
  },
  {
-  "id": "N4-045",
+  "id": "N4-053",
   "niveau": 4,
   "epoque": "Années 90",
   "theme": "France",
-  "enonce": "Sur quelle planète se déroule Little Big Adventure (1994), de Frédérick Raynal ?",
+  "enonce": "Sur quelle planète se déroule Little Big Adventure (1994) ?",
   "choix": [
    "Twinsun",
    "Arrakis",
@@ -3797,6 +3797,158 @@
   "source": {
    "titre": "Wikipédia (en anglais), « Color TV-Game »",
    "url": "https://en.wikipedia.org/w/index.php?title=Special%3ASearch&go=Go&search=Color%20TV-Game"
+  }
+ },
+ {
+  "id": "N1-051",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Personnages",
+  "enonce": "De quelle couleur est la casquette de Mario ?",
+  "choix": [
+   "Rouge",
+   "Verte",
+   "Bleue",
+   "Jaune"
+  ],
+  "bonne": 0,
+  "explication": "Mario porte une casquette rouge marquée d'un « M ». Le vert est la couleur de son frère.",
+  "source": {
+   "titre": "Wikipédia, « Mario (personnage) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Mario%20%28personnage%29"
+  }
+ },
+ {
+  "id": "N1-052",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Personnages",
+  "enonce": "Que ramasse Sonic tout au long de ses niveaux ?",
+  "choix": [
+   "Des anneaux dorés",
+   "Des pièces",
+   "Des étoiles",
+   "Des bananes"
+  ],
+  "bonne": 0,
+  "explication": "Sonic collecte des anneaux dorés : tant qu'il en a, un coup reçu ne le fait pas perdre de vie, il les éparpille seulement.",
+  "source": {
+   "titre": "Wikipédia, « Sonic the Hedgehog (personnage) »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Sonic%20the%20Hedgehog%20%28personnage%29"
+  }
+ },
+ {
+  "id": "N1-053",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Objets",
+  "enonce": "Dans Super Mario Bros., quel objet fait grandir Mario ?",
+  "choix": [
+   "Un champignon",
+   "Une étoile",
+   "Une pièce",
+   "Une plume"
+  ],
+  "bonne": 0,
+  "explication": "Le Super Champignon fait grandir Mario. L'étoile le rend invincible quelques secondes et la plume lui donne une cape (Super Mario World).",
+  "source": {
+   "titre": "Wikipédia, « Super Mario Bros. »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Super%20Mario%20Bros."
+  }
+ },
+ {
+  "id": "N1-054",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Arcade",
+  "enonce": "Dans Pac-Man, que doit manger Pac-Man pour pouvoir dévorer les fantômes ?",
+  "choix": [
+   "Une super pac-gomme",
+   "Une cerise",
+   "Une clé",
+   "Une cloche"
+  ],
+  "bonne": 0,
+  "explication": "Les super pac-gommes, plus grosses que les autres, rendent les fantômes bleus et vulnérables quelques secondes. Cerise, clé et cloche sont des bonus.",
+  "source": {
+   "titre": "Wikipédia, « Pac-Man »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Pac-Man"
+  }
+ },
+ {
+  "id": "N1-055",
+  "niveau": 1,
+  "epoque": "Années 90",
+  "theme": "Course",
+  "enonce": "Dans Mario Kart, quel objet fonce directement sur le joueur en tête de la course ?",
+  "choix": [
+   "La carapace bleue",
+   "La carapace verte",
+   "La banane",
+   "Le champignon"
+  ],
+  "bonne": 0,
+  "explication": "La carapace bleue, apparue dans Mario Kart 64, file vers le premier de la course. La verte part tout droit, la banane se pose derrière soi.",
+  "source": {
+   "titre": "Wikipédia, « Mario Kart »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Mario%20Kart"
+  }
+ },
+ {
+  "id": "N1-056",
+  "niveau": 1,
+  "epoque": "Années 2010",
+  "theme": "Multijoueur",
+  "enonce": "Au début d'une partie de Fortnite Battle Royale, d'où sautent les joueurs ?",
+  "choix": [
+   "D'un bus volant",
+   "D'un avion",
+   "D'un hélicoptère",
+   "D'une montgolfière"
+  ],
+  "bonne": 0,
+  "explication": "Les joueurs sautent du « bus de combat », un bus suspendu à un ballon, puis ouvrent leur planeur pour atterrir sur l'île.",
+  "source": {
+   "titre": "Wikipédia, « Fortnite Battle Royale »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Fortnite%20Battle%20Royale"
+  }
+ },
+ {
+  "id": "N1-057",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Personnages",
+  "enonce": "Quelle princesse Mario doit-il souvent sauver ?",
+  "choix": [
+   "Peach",
+   "Zelda",
+   "Samus",
+   "Amy"
+  ],
+  "bonne": 0,
+  "explication": "La princesse Peach règne sur le Royaume Champignon et le roi des Koopa l'enlève régulièrement. Zelda est la princesse d'une autre série de Nintendo.",
+  "source": {
+   "titre": "Wikipédia, « Princesse Peach »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Princesse%20Peach"
+  }
+ },
+ {
+  "id": "N1-058",
+  "niveau": 1,
+  "epoque": "Années 80",
+  "theme": "Puzzle",
+  "enonce": "Dans Tetris, que se passe-t-il quand une ligne horizontale est entièrement remplie ?",
+  "choix": [
+   "Elle disparaît",
+   "La partie s'arrête",
+   "Elle devient grise",
+   "Elle change de couleur"
+  ],
+  "bonne": 0,
+  "explication": "Une ligne complète disparaît et rapporte des points ; compléter quatre lignes d'un coup s'appelle faire un « Tetris ».",
+  "source": {
+   "titre": "Wikipédia, « Tetris »",
+   "url": "https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3ARecherche&go=Go&search=Tetris"
   }
  }
 ]
